@@ -1,0 +1,3844 @@
+{
+    "files": [
+        {
+            "name": "GTASAMP10.b",
+            "size": "195000",
+            "sha": "c231b43c1026e41c46cb711cc2168145b83377bfcd9331cb862490ec73305d3b",
+            "path": "GTASAMP10.b",
+            "url": "https://desenvolvimento.reduto.online/beta/files/GTASAMP10.b",
+            "gpu": "all"
+        },
+        {
+            "name": "SAMP.ide",
+            "size": "89349",
+            "sha": "898187aaa1374c8193ad02526c2fa6268b6a2320d70e18bfabd0c326dfcc460a",
+            "path": "SAMP/SAMP.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/SAMP.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "WEAPON.dat",
+            "size": "12495",
+            "sha": "2796e7bd2332eabc1ce2310a40ac0081a2983edd8d45f48f8ec6c3d993918235",
+            "path": "SAMP/WEAPON.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/WEAPON.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "arquivo.pt",
+            "size": "79",
+            "sha": "11fa7ef2f321cc8fa1b72543214a0314f515e076597edd7148b69e20581948c7",
+            "path": "SAMP/arquivo.pt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/arquivo.pt",
+            "gpu": "all"
+        },
+        {
+            "name": "reduto_ambient.bank",
+            "size": "1724576",
+            "sha": "c5903664f24ae1ee94b6846d46f5a680add109dae125a9206446fe4d298bb49f",
+            "path": "SAMP/audio/banks/reduto_ambient.bank",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/audio/banks/reduto_ambient.bank",
+            "gpu": "all"
+        },
+        {
+            "name": "reduto_mecanic.bank",
+            "size": "155584",
+            "sha": "b91f197bf74d2a3cf3880146a9e080b3ac24f81d634e71ab1243839f07120bff",
+            "path": "SAMP/audio/banks/reduto_mecanic.bank",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/audio/banks/reduto_mecanic.bank",
+            "gpu": "all"
+        },
+        {
+            "name": "reduto_ui.bank",
+            "size": "390656",
+            "sha": "3c51c98306a7f0ee7b49dec55836c142b8b0c15a02fa6534c7e5592b068c1409",
+            "path": "SAMP/audio/banks/reduto_ui.bank",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/audio/banks/reduto_ui.bank",
+            "gpu": "all"
+        },
+        {
+            "name": "reduto_voices.bank",
+            "size": "774944",
+            "sha": "84b03d42d54040aed443d8e3cb218e0fd73f7b25855a5514f0d9b99f06c2e4e9",
+            "path": "SAMP/audio/banks/reduto_voices.bank",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/audio/banks/reduto_voices.bank",
+            "gpu": "all"
+        },
+        {
+            "name": "weapons.bank",
+            "size": "298592",
+            "sha": "df31dd292f309e82e1a2a760f2dc80d67e7f10f7ad75bb66100cc0a6ced34803",
+            "path": "SAMP/audio/banks/weapons.bank",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/audio/banks/weapons.bank",
+            "gpu": "all"
+        },
+        {
+            "name": "weapons.strings.bank",
+            "size": "4960",
+            "sha": "c1f744367fcaec80511dcb0636bb42973d23cac0880ed61f304262e1ada296f7",
+            "path": "SAMP/audio/banks/weapons.strings.bank",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/audio/banks/weapons.strings.bank",
+            "gpu": "all"
+        },
+        {
+            "name": "colorcycle.dat",
+            "size": "13612",
+            "sha": "d04a9eb1cfa3ae2124fafe5993a2b20438b73124145e47c5981ef73e613babf1",
+            "path": "SAMP/colorcycle.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/colorcycle.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "Geometria-Bold.ttf",
+            "size": "129796",
+            "sha": "7cdac2acf176fec861bd9687e692dd8e13f4a02f311cdd1941f927685e2f86d6",
+            "path": "SAMP/fonts/Geometria-Bold.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/Geometria-Bold.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "Geometria-Medium.ttf",
+            "size": "131496",
+            "sha": "2f078e37487a76bdd7b9376ffc6f8c53e7e0683695ab890b9abcbfe4e6062bbc",
+            "path": "SAMP/fonts/Geometria-Medium.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/Geometria-Medium.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "arial-b.ttf",
+            "size": "199764",
+            "sha": "ffb5c061edb7aead711d2311b4247c4a69bb6d9070712824d55f727dfdb166aa",
+            "path": "SAMP/fonts/arial-b.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/arial-b.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "arial.ttf",
+            "size": "367112",
+            "sha": "413c78f91bd39e134f3c0bb204b1d5a90f29df9efddc8fd26950a178058d5d74",
+            "path": "SAMP/fonts/arial.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/arial.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "arial1.ttf",
+            "size": "367112",
+            "sha": "413c78f91bd39e134f3c0bb204b1d5a90f29df9efddc8fd26950a178058d5d74",
+            "path": "SAMP/fonts/arial1.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/arial1.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "arial_bold.ttf",
+            "size": "352224",
+            "sha": "df70597f0bdf49da3af270138f8a34396e4f5618c671a1db3480e626f38aaece",
+            "path": "SAMP/fonts/arial_bold.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/arial_bold.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "arial_rus.ttf",
+            "size": "352224",
+            "sha": "df70597f0bdf49da3af270138f8a34396e4f5618c671a1db3480e626f38aaece",
+            "path": "SAMP/fonts/arial_rus.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/arial_rus.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "din-pro-black.ttf",
+            "size": "138840",
+            "sha": "2b8b1772e849d59fedfb386723fa64b886597aa77302fcd209234b9faced0956",
+            "path": "SAMP/fonts/din-pro-black.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/din-pro-black.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "din-pro-bold.ttf",
+            "size": "138336",
+            "sha": "47f809ffa3e62c440a488f56a7f052fafcadaa5c98918374322c0c87c1df4586",
+            "path": "SAMP/fonts/din-pro-bold.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/din-pro-bold.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "din-pro.ttf",
+            "size": "138872",
+            "sha": "c36b27da593c16a5ef3cd9e967d5a085e93e33176ec7187afff70ac27e7a78db",
+            "path": "SAMP/fonts/din-pro.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/din-pro.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "flame_speed.ttf",
+            "size": "261732",
+            "sha": "4463a5eeeb1290f16f930c40847679998d84727c5dd26fac147fcd1d671db571",
+            "path": "SAMP/fonts/flame_speed.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/flame_speed.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "gtaweap3.ttf",
+            "size": "104004",
+            "sha": "b7d7a38d4f6b729e961984eaec1248c5bdcf925d3d869a7e944e246e777a5271",
+            "path": "SAMP/fonts/gtaweap3.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/gtaweap3.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "panton-bold.otf",
+            "size": "148840",
+            "sha": "d1bba70edaffa6d4e72cd19e4946ca22732b1ca05c62d4ba02c7a2668abfd4a1",
+            "path": "SAMP/fonts/panton-bold.otf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/panton-bold.otf",
+            "gpu": "all"
+        },
+        {
+            "name": "sampaux3.ttf",
+            "size": "11544",
+            "sha": "3adfe84498e8951e61ece57ad08de21b95d162697517291564ae6ef3a8790c1b",
+            "path": "SAMP/fonts/sampaux3.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/sampaux3.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "sampaux3.ttfg",
+            "size": "11544",
+            "sha": "3adfe84498e8951e61ece57ad08de21b95d162697517291564ae6ef3a8790c1b",
+            "path": "SAMP/fonts/sampaux3.ttfg",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/sampaux3.ttfg",
+            "gpu": "all"
+        },
+        {
+            "name": "visby-round-cf-extra-bold.ttf",
+            "size": "77700",
+            "sha": "9d582a66753f5a2af5d0454650d13960a83524256542d0b9f79ceb7ba32709f9",
+            "path": "SAMP/fonts/visby-round-cf-extra-bold.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/fonts/visby-round-cf-extra-bold.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "gta.dat",
+            "size": "4267",
+            "sha": "060d9e32f863ffc9162574e7e51008f023c2e0a0a01931179bea021073ad9b00",
+            "path": "SAMP/gta.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/gta.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "handling.cfg",
+            "size": "64419",
+            "sha": "0a40976fe835e9e2b0950186635d45a9d1c38134e1a8c9c15b0a86ddb923ee97",
+            "path": "SAMP/handling.cfg",
+            "url": "https://raw.githubusercontent.com/joaquinnhosoaa-sudo/-v7modders/refs/heads/main/handling_speed_plus50",
+            "gpu": "all"
+        },
+        {
+            "name": "main.scm",
+            "size": "96997",
+            "sha": "b36890ecf1cb3255921b4ac15600ebb79cfbf2490aa23abccf17b1661c4b060b",
+            "path": "SAMP/main.scm",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/main.scm",
+            "gpu": "all"
+        },
+        {
+            "name": "outfit.dat",
+            "size": "5640",
+            "sha": "57a4aeda0d216ff7b63aa2fca3b683ca432afdfbfbb494b7a80afc3b14f5a232",
+            "path": "SAMP/outfit.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/outfit.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "ped.ifp",
+            "size": "1433248",
+            "sha": "f7483f49080a0f833dc73ef09aa2224f99a9e90757fa5c2b7db5505cbef33eac",
+            "path": "SAMP/ped.ifp",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/ped.ifp",
+            "gpu": "all"
+        },
+        {
+            "name": "peds.ide",
+            "size": "36378",
+            "sha": "3c372753348d2d25a09a43e91970d8b9a50e21356ec48673a70baf73886875ed",
+            "path": "SAMP/peds.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/peds.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "ru_font.ttf",
+            "size": "233076",
+            "sha": "3f4548e9f1764f95bf7507cff920d6d2a9b4b103b98feda4cecf964133018807",
+            "path": "SAMP/plates/ru_font.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/plates/ru_font.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "ua_font.ttf",
+            "size": "233176",
+            "sha": "a779505c100f727f55c7a49b271f2e7db60d737b98b9d2eeae0f0feb9250dc68",
+            "path": "SAMP/plates/ua_font.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/plates/ua_font.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "script.img",
+            "size": "184320",
+            "sha": "adf3b20e847316aefde6cbf47eeae2e77c8e9185e096c8ed9668e60bd2ff11a4",
+            "path": "SAMP/script.img",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/script.img",
+            "gpu": "all"
+        },
+        {
+            "name": "settings.ini",
+            "size": "358",
+            "sha": "e3807f06d0e25e5a0ae1aca895a20048fbe4ab0e281bfaab3b3f6f5a7cb18eac",
+            "path": "SAMP/settings.ini",
+            "url": "https://pastebin.com/dl/QHatkNnK",
+            "gpu": "all"
+        },
+        {
+            "name": "settings.json",
+            "size": "774",
+            "sha": "2e57b81ef9776b994a329ece1e53444ba67664ee3f41c4da9f72e2d5a4e193a6",
+            "path": "SAMP/settings.json",
+            "url": "https://pastebin.com/raw/FnFUFtqm",
+            "gpu": "all"
+        },
+        {
+            "name": "svlog.txt",
+            "size": "2365",
+            "sha": "c8d0cef9d60e1f53ccfcf0c1c90d1d1abcd151ace8838b2f2555a71a43d9aa3e",
+            "path": "SAMP/svlog.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/svlog.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "timecyc.dat",
+            "size": "39406",
+            "sha": "fe66c37be300b715f043bbaba9bf0a8558b64ebe55104006823c92f96a6854d6",
+            "path": "SAMP/timecyc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/timecyc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks2.dat",
+            "size": "1",
+            "sha": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+            "path": "SAMP/tracks2.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/tracks2.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks4.dat",
+            "size": "1",
+            "sha": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+            "path": "SAMP/tracks4.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/tracks4.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicleAudioSettings.cfg",
+            "size": "22642",
+            "sha": "c0efbb30d5680e25a16cf986ce6d91c8e33968d99d4b6c883e5a0020f370d63a",
+            "path": "SAMP/vehicleAudioSettings.cfg",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/vehicleAudioSettings.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicles.ide",
+            "size": "21061",
+            "sha": "81a381800ec8cbe89a24e5b1b11d8d0dd97fa842c95eb1920e3f954048c19630",
+            "path": "SAMP/vehicles.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/vehicles.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "version.ini",
+            "size": "33",
+            "sha": "9355d78167117bc9f5a745c2420fefc915eda034ad847257363ee10012a7b19c",
+            "path": "SAMP/version.ini",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/version.ini",
+            "gpu": "all"
+        },
+        {
+            "name": "water.dat",
+            "size": "70099",
+            "sha": "1562bc86766ce595d7513f3ca3ae3fc4147b574c8c4e703fe6a76678507969bf",
+            "path": "SAMP/water.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/water.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "water1.dat",
+            "size": "60063",
+            "sha": "c43d750c3a9b1d645235f0c987fac3b1f2fa20aafd78449e831f2aea36de5f68",
+            "path": "SAMP/water1.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/SAMP/water1.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "anim.img",
+            "size": "10942464",
+            "sha": "bdde1f918fb12e4b4b9e46927f8a0281b6d80b85551b716e74cca68c6c9138ae",
+            "path": "anim/anim.img",
+            "url": "https://desenvolvimento.reduto.online/beta/files/anim/anim.img",
+            "gpu": "all"
+        },
+        {
+            "name": "cuts.img",
+            "size": "270096384",
+            "sha": "28d9b9002ac5479106c06ce0fc390120f24e0ac2a2395517badbcbd0adf502cb",
+            "path": "anim/cuts.img",
+            "url": "https://desenvolvimento.reduto.online/beta/files/anim/cuts.img",
+            "gpu": "all"
+        },
+        {
+            "name": "ped.ifp",
+            "size": "1450104",
+            "sha": "e672b9c0e96306efaf7ff661aaf0d12645841b52a2e77c81b3e4ca1f751d549c",
+            "path": "anim/ped.ifp",
+            "url": "https://desenvolvimento.reduto.online/beta/files/anim/ped.ifp",
+            "gpu": "all"
+        },
+        {
+            "name": "reduto.ifp",
+            "size": "19672432",
+            "sha": "5181c4d0491952516352c44bac8157c687f7d9c06312ee876ff88480889542f9",
+            "path": "anim/reduto.ifp",
+            "url": "https://desenvolvimento.reduto.online/beta/files/anim/reduto.ifp",
+            "gpu": "all"
+        },
+        {
+            "name": "AudioEventHistory.txt",
+            "size": "114056",
+            "sha": "bdc80c1cb520ae10c7952af4d402e0a3802901eb724f44e9de6007fc8b810dc0",
+            "path": "audio/CONFIG/AudioEventHistory.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/CONFIG/AudioEventHistory.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "BankLkup.dat",
+            "size": "8520",
+            "sha": "b89a66ddef4e5da74c4c13abb38a9aa7985397bee45b00e080da89f07a1eee50",
+            "path": "audio/CONFIG/BankLkup.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/CONFIG/BankLkup.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "BankSlot.dat",
+            "size": "216902",
+            "sha": "aa7035f9c914cd3b73f9535b2794a10febeebfbcdb166d340d875093eab71e72",
+            "path": "audio/CONFIG/BankSlot.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/CONFIG/BankSlot.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "EventVol.dat",
+            "size": "45402",
+            "sha": "ad8bab3deff68a93787566dab34b33d37876ba9e15308386e2166837024059a8",
+            "path": "audio/CONFIG/EventVol.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/CONFIG/EventVol.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "PakFiles.dat",
+            "size": "468",
+            "sha": "36bc8f4814d4ef4dc3b7c43ae5c26f0de1feeda1bc15cdf2250456d2927bc57c",
+            "path": "audio/CONFIG/PakFiles.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/CONFIG/PakFiles.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "SOUNDINF.DAT",
+            "size": "746760",
+            "sha": "639b880be8c20dd35b2a8702f2ec466946cf8ed44b8f3fd0a74fb8342af16d99",
+            "path": "audio/CONFIG/SOUNDINF.DAT",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/CONFIG/SOUNDINF.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "StrmPaks.dat",
+            "size": "272",
+            "sha": "03e32ee0efb3505d0cea13952370d24a417799b085946087c851060d4120dea0",
+            "path": "audio/CONFIG/StrmPaks.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/CONFIG/StrmPaks.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "TRKHEAD.DAT",
+            "size": "15506696",
+            "sha": "6474abc1c02ed8647caca1c107e0d067cce2715021f9420c009c0f763ad1c0e4",
+            "path": "audio/CONFIG/TRKHEAD.DAT",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/CONFIG/TRKHEAD.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "TrakLkup.dat",
+            "size": "23064",
+            "sha": "adf22fcdfe798c7ad59f1b8fbf6a71574fbf06f1ca39a074ad2b3163c341c0d9",
+            "path": "audio/CONFIG/TrakLkup.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/CONFIG/TrakLkup.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "FEET.osw",
+            "size": "138118",
+            "sha": "d43473f63e8379f65be9eb9f43ca3218bfd7cc1769041f0a417b25da3f332336",
+            "path": "audio/SFX/FEET.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/FEET.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "FEET.osw.idx",
+            "size": "1220",
+            "sha": "13debe852688a01ff4e2f789f939747922e19ae59c59287b4f601095669e20d6",
+            "path": "audio/SFX/FEET.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/FEET.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "GENRL.osw",
+            "size": "9362373",
+            "sha": "3d469654805f1c457bdcdd8025f4e8840b3d6674503be53709484d8680544328",
+            "path": "audio/SFX/GENRL.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/GENRL.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "GENRL.osw.idx",
+            "size": "20868",
+            "sha": "dbdf66a159e3a4d855cbc1ca56df5e575025cb6b928ff04448c37f2f70df2c9a",
+            "path": "audio/SFX/GENRL.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/GENRL.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "PAIN_A.osw",
+            "size": "3247335",
+            "sha": "b6e917e21c007e394b76b0d1f7121b5f1c6f397073de3554b8b56599104816e1",
+            "path": "audio/SFX/PAIN_A.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/PAIN_A.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "PAIN_A.osw.idx",
+            "size": "12836",
+            "sha": "6f64edb08e2a7e0895a70a2467d6e848e2cffcb189adaf2d74a014189060ea43",
+            "path": "audio/SFX/PAIN_A.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/PAIN_A.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "SCRIPT.osw",
+            "size": "99239609",
+            "sha": "250fa728c4504a356bf90d070704431bf7b128ba7dfc3ea8cb8d9ee1f3202262",
+            "path": "audio/SFX/SCRIPT.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/SCRIPT.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "SCRIPT.osw.idx",
+            "size": "219236",
+            "sha": "3b3ee4d9a584e426da06fcc60482170afccafce1d15fc5301ef5aa6d9899aae8",
+            "path": "audio/SFX/SCRIPT.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/SCRIPT.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_EA.osw",
+            "size": "40734626",
+            "sha": "59114013bd0ee30ecacddf0c7134769908d19c694c03e05ea9cddf412fb7d13c",
+            "path": "audio/SFX/SPC_EA.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/SPC_EA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_EA.osw.idx",
+            "size": "116644",
+            "sha": "9bf52a715b949ddb67eab14a8e244619f28c673bb4c6f8a057ebfa013a5451c0",
+            "path": "audio/SFX/SPC_EA.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/SPC_EA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_FA.osw",
+            "size": "35259227",
+            "sha": "78313865bae11f540c3cc41206e0f699283915b427fa7dfcf7f0870c86203684",
+            "path": "audio/SFX/SPC_FA.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/SPC_FA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_FA.osw.idx",
+            "size": "87716",
+            "sha": "b0113b204d691507ac96e8311e14df4368fcd50957f823789dda9d60c6554c83",
+            "path": "audio/SFX/SPC_FA.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/SPC_FA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_GA.osw",
+            "size": "358311715",
+            "sha": "f2230e94c8066c480f9aa2f56f52a5082541d740c1b67e53e33743984862755c",
+            "path": "audio/SFX/SPC_GA.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/SPC_GA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_GA.osw.idx",
+            "size": "999492",
+            "sha": "3c211fd3c93b980fc594ef35a6ae0c193792a8195631a93be4848e557d7e8313",
+            "path": "audio/SFX/SPC_GA.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/SPC_GA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_NA.osw",
+            "size": "139343191",
+            "sha": "03ad91fc4811b1f2d5cc81b48ab230c49be71d25af3681fa48c457ea5b958786",
+            "path": "audio/SFX/SPC_NA.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/SPC_NA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_NA.osw.idx",
+            "size": "394340",
+            "sha": "bee83762accd4784eb773e932f89be8094cee7443f7e1523e8d06c125150eddf",
+            "path": "audio/SFX/SPC_NA.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/SPC_NA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_PA.osw",
+            "size": "45319767",
+            "sha": "6d25446ef9eb5be25c1a8e5034cc4c7d5d8fd903474efcbe51e7184b6e0dce66",
+            "path": "audio/SFX/SPC_PA.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/SPC_PA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_PA.osw.idx",
+            "size": "131460",
+            "sha": "12fc86b9c4d8235932bdfe6d49f2dd019d007ae58264094deacd6561c9305d7b",
+            "path": "audio/SFX/SPC_PA.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/SFX/SPC_PA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "AA.osw",
+            "size": "15462",
+            "sha": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+            "path": "audio/STREAMS/AA.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/AA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "AA.osw.idx",
+            "size": "1522",
+            "sha": "0971a591a39cc7aa2ee6071e1a87b3571e708fc0446ec083068a075c9f396466",
+            "path": "audio/STREAMS/AA.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/AA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "ADVERTS.osw",
+            "size": "3516982",
+            "sha": "ca963094f2b6d8600e3a7ad5c1cb82794c739615f9dfd0e1518966406a5d8aab",
+            "path": "audio/STREAMS/ADVERTS.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/ADVERTS.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "ADVERTS.osw.idx",
+            "size": "1591",
+            "sha": "d2cdf4c804cef5f74f9548b8bb2cf5cd72a7b86665d8b2e493882e50bb3cb998",
+            "path": "audio/STREAMS/ADVERTS.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/ADVERTS.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "AMBIENCE.osw",
+            "size": "22719112",
+            "sha": "fbe8d0c10cf5af252496e2a5729efae6e0afe37004d5905d872cf6dcc83fe272",
+            "path": "audio/STREAMS/AMBIENCE.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/AMBIENCE.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "AMBIENCE.osw.idx",
+            "size": "924",
+            "sha": "d763e98e94b87349f748e02943a02eff06b8daac448b5da6f09b0f09db9c4e83",
+            "path": "audio/STREAMS/AMBIENCE.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/AMBIENCE.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "BEATS.osw",
+            "size": "9733284",
+            "sha": "27b0e6ff721a872ad719fab7def50247cb0d04b9bb108ec0aca334491b64b053",
+            "path": "audio/STREAMS/BEATS.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/BEATS.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "BEATS.osw.idx",
+            "size": "234",
+            "sha": "ceba406f039f13e840d2b9b43c599905dfbe126f10bb5c29d9452e4883cca7b8",
+            "path": "audio/STREAMS/BEATS.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/BEATS.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CH.osw",
+            "size": "15462",
+            "sha": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+            "path": "audio/STREAMS/CH.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/CH.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CH.osw.idx",
+            "size": "2994",
+            "sha": "9dcf1445dcd6145aeab790d5eeff737b7f085dde07e42091d6bf523b197e123c",
+            "path": "audio/STREAMS/CH.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/CH.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CO.osw",
+            "size": "15462",
+            "sha": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+            "path": "audio/STREAMS/CO.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/CO.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CO.osw.idx",
+            "size": "3569",
+            "sha": "c057f5a0eb6df6dec863e25561995cfb69afd1dfddd92c608f720254ca60a4c8",
+            "path": "audio/STREAMS/CO.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/CO.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CR.osw",
+            "size": "15462",
+            "sha": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+            "path": "audio/STREAMS/CR.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/CR.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CR.osw.idx",
+            "size": "3592",
+            "sha": "b6a7ef38f6aee88eb60c2d0500be46f7e8cac38b72c738071404640854f98485",
+            "path": "audio/STREAMS/CR.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/CR.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CUTSCENE.osw",
+            "size": "301175",
+            "sha": "0fcbd6cb6aea4f51eddb8b9213ccd5cc9445422d4d4eeedb9c457b2bdc1d13a1",
+            "path": "audio/STREAMS/CUTSCENE.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/CUTSCENE.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CUTSCENE.osw.idx",
+            "size": "3247",
+            "sha": "e7baeb71062f2e1c90e1f7c010d5106b616e59efb876b7524a31f6ca740b75ca",
+            "path": "audio/STREAMS/CUTSCENE.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/CUTSCENE.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "DS.osw",
+            "size": "15462",
+            "sha": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+            "path": "audio/STREAMS/DS.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/DS.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "DS.osw.idx",
+            "size": "4121",
+            "sha": "abe5af8acca600fc6ec041e35ccd1a3735ddaf78906667dab39a5542d12dee41",
+            "path": "audio/STREAMS/DS.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/DS.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "HC.osw",
+            "size": "15462",
+            "sha": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+            "path": "audio/STREAMS/HC.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/HC.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "HC.osw.idx",
+            "size": "2649",
+            "sha": "baf0fc96a4818b1499969853fb144c7a4ef2f1dfe171a7bd2559dffc2c7c15a9",
+            "path": "audio/STREAMS/HC.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/HC.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "MH.osw",
+            "size": "15462",
+            "sha": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+            "path": "audio/STREAMS/MH.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/MH.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "MH.osw.idx",
+            "size": "3500",
+            "sha": "6796adf0a3d204e85951924ba5792297acf8f67f2ce03cb66d3303b230b0d3ad",
+            "path": "audio/STREAMS/MH.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/MH.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "MR.osw",
+            "size": "15462",
+            "sha": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+            "path": "audio/STREAMS/MR.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/MR.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "MR.osw.idx",
+            "size": "3385",
+            "sha": "7c789c2faaf83ec6ae0fb281955926103a085cba02c349291e36d8dc1d6fe046",
+            "path": "audio/STREAMS/MR.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/MR.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "NJ.osw",
+            "size": "15462",
+            "sha": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+            "path": "audio/STREAMS/NJ.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/NJ.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "NJ.osw.idx",
+            "size": "2994",
+            "sha": "980e1a5145799c5bad42635c5b934562e0acb7e1146b79071734eaed48b711f0",
+            "path": "audio/STREAMS/NJ.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/NJ.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "RE.osw",
+            "size": "15462",
+            "sha": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+            "path": "audio/STREAMS/RE.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/RE.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "RE.osw.idx",
+            "size": "3707",
+            "sha": "292c0a3fb991236d2c951eb40c93136ea61641c1cab3f72a810eaf0a39cd233b",
+            "path": "audio/STREAMS/RE.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/RE.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "RG.osw",
+            "size": "15462",
+            "sha": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+            "path": "audio/STREAMS/RG.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/RG.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "RG.osw.idx",
+            "size": "3914",
+            "sha": "9d3e8370bb96c11927ad4785af68ebbae7bbee64ef213852655a0430424c1314",
+            "path": "audio/STREAMS/RG.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/RG.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "TK.osw",
+            "size": "15462",
+            "sha": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+            "path": "audio/STREAMS/TK.osw",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/TK.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "TK.osw.idx",
+            "size": "2327",
+            "sha": "db3f6081c7d8c605e34b3daa7f7033f0efb335a0fc478944a7ba1b599c545926",
+            "path": "audio/STREAMS/TK.osw.idx",
+            "url": "https://desenvolvimento.reduto.online/beta/files/audio/STREAMS/TK.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "360Default1280x720.cfg",
+            "size": "10898",
+            "sha": "b26d40d280bf93dc685668b099c303b2a0700dd9f0460307d5643cbad70c6ca6",
+            "path": "data/360Default1280x720.cfg",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/360Default1280x720.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "360Default960x720.cfg",
+            "size": "10888",
+            "sha": "142128a657affbbe4dabbc2c992c58890cb8fa5157e72d95fbbe50c3194011fd",
+            "path": "data/360Default960x720.cfg",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/360Default960x720.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "Cop.ped",
+            "size": "4908",
+            "sha": "d91e13fb6aaf0be786e32fd37a68cf0425cef9fbc23742222d31d1ff312a8150",
+            "path": "data/Decision/Allowed/Cop.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/Cop.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "Fireman.ped",
+            "size": "4435",
+            "sha": "cb9a75b87d6960e51a12a4d896f099e5ed1576d76d7946a0570f10e98872de54",
+            "path": "data/Decision/Allowed/Fireman.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/Fireman.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "GangMbr.ped",
+            "size": "6194",
+            "sha": "c2653aba07c5c04017b44797cc4f1d2899da9e4d36ac6420ca22b5600172f57d",
+            "path": "data/Decision/Allowed/GangMbr.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/GangMbr.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "Indoors.ped",
+            "size": "2809",
+            "sha": "53dc5665a42bd47d9dc8be8d7a2440b5722b10940186c000235213cb8c1d8fe1",
+            "path": "data/Decision/Allowed/Indoors.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/Indoors.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "MISSION.grp",
+            "size": "2758",
+            "sha": "1a97a3018d9a852b699beb1904af4ae8ed1b7aab5fe1742e59917fb29eda2af6",
+            "path": "data/Decision/Allowed/MISSION.grp",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/MISSION.grp",
+            "gpu": "all"
+        },
+        {
+            "name": "RANDOM.grp",
+            "size": "4623",
+            "sha": "d4848b45f3fa6b8c9fb15b4bee0c7ee8b42a1a8ccc9e6bdfa01f1d5ab0522265",
+            "path": "data/Decision/Allowed/RANDOM.grp",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/RANDOM.grp",
+            "gpu": "all"
+        },
+        {
+            "name": "RANDOM.ped",
+            "size": "4142",
+            "sha": "fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe",
+            "path": "data/Decision/Allowed/RANDOM.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/RANDOM.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "RANDOM2.grp",
+            "size": "4623",
+            "sha": "4a3f855271adb3dc41a91a7595281fd534d64768596195037ccd1cd01318352a",
+            "path": "data/Decision/Allowed/RANDOM2.grp",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/RANDOM2.grp",
+            "gpu": "all"
+        },
+        {
+            "name": "R_Norm.ped",
+            "size": "6450",
+            "sha": "33175de3da4445186551bf2aeadacd4f706879cbbe47411c73fd228d41fdb30c",
+            "path": "data/Decision/Allowed/R_Norm.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/R_Norm.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "R_Tough.ped",
+            "size": "6378",
+            "sha": "fd8d95ea1b3915983380eb48efa124883fecd5069157c8673d0a111e7ecdb1c9",
+            "path": "data/Decision/Allowed/R_Tough.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/R_Tough.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "R_Weak.ped",
+            "size": "6289",
+            "sha": "41f15594c0c639475f904b3ee09474f8ceac9f504345f421cf6f740f8287e60d",
+            "path": "data/Decision/Allowed/R_Weak.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/R_Weak.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_empty.ped",
+            "size": "982",
+            "sha": "df0e18f0148152c98132381927b617140fc6e8967a68085cc630cbe734e0c9b5",
+            "path": "data/Decision/Allowed/m_empty.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/m_empty.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_norm.ped",
+            "size": "4142",
+            "sha": "fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe",
+            "path": "data/Decision/Allowed/m_norm.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/m_norm.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_plyr.ped",
+            "size": "2000",
+            "sha": "261b87d08b49ce72c3f9d02201bae15889f2a9ff65798e704fcf53098fbd304e",
+            "path": "data/Decision/Allowed/m_plyr.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/m_plyr.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_steal.ped",
+            "size": "3663",
+            "sha": "635372cb7c36134f4bfdd1ae343763ad3d814db7b19fef7eb34a2ca48ed48ec4",
+            "path": "data/Decision/Allowed/m_steal.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/m_steal.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_tough.ped",
+            "size": "3980",
+            "sha": "99129a3281653e428cea13b6fb626d21bed6381849f92e11b5638f1f3c23687d",
+            "path": "data/Decision/Allowed/m_tough.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/m_tough.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_weak.ped",
+            "size": "4062",
+            "sha": "5e97f56b79986532d76d401a1929c1c3879bcae6377face62f0ed9976b28a6d6",
+            "path": "data/Decision/Allowed/m_weak.ped",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/Allowed/m_weak.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "PedEvent.txt",
+            "size": "1298",
+            "sha": "c61a077262a419b15a14961341144a96795f45d49014deb6fa98aa0e180400be",
+            "path": "data/Decision/PedEvent.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/Decision/PedEvent.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultPhone3x2.cfg",
+            "size": "10912",
+            "sha": "59704c4caa1fe09942708ac9ae1e35c72446664e3e817c602b79ae3ca754b8df",
+            "path": "data/TouchDefaultPhone3x2.cfg",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/TouchDefaultPhone3x2.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultPhoneWidescreen.cfg",
+            "size": "10924",
+            "sha": "8b5f1208d4a178c631588797d370dda8a43095d09360987cf5b5d90b4d324f03",
+            "path": "data/TouchDefaultPhoneWidescreen.cfg",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/TouchDefaultPhoneWidescreen.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultTablet4x3.cfg",
+            "size": "10926",
+            "sha": "1e3fd9c4bd4ea8093e8fae76243a1abf32c694be481139c32e133666c90acb29",
+            "path": "data/TouchDefaultTablet4x3.cfg",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/TouchDefaultTablet4x3.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultTabletWidescreen.cfg",
+            "size": "10923",
+            "sha": "c728569e368244dc777764cfcc689aeff81fdbd2b1e1d2527f9ec49ee8d051bf",
+            "path": "data/TouchDefaultTabletWidescreen.cfg",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/TouchDefaultTabletWidescreen.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "animgrp.dat",
+            "size": "3096",
+            "sha": "012b10d891840c48e0f282fdef7700673a12fe6c568a7ac9127c21095808aef8",
+            "path": "data/animgrp.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/animgrp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "ar_stats.dat",
+            "size": "3593",
+            "sha": "3f8a184d088dc25e166ff0bb067286b5dcac2398de21d3bb4e00b43956d31d25",
+            "path": "data/ar_stats.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/ar_stats.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "carcols.dat",
+            "size": "15398",
+            "sha": "66b895158034e5354093b75a05952a2b7063f20c13ed928017fdcbe1aa6ba3c3",
+            "path": "data/carcols.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/carcols.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "cargrp.dat",
+            "size": "3963",
+            "sha": "40670294c436e9d96ae30095cc720eba1655615be9a8810a079b81ebe64b6124",
+            "path": "data/cargrp.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/cargrp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "carmods.dat",
+            "size": "9110",
+            "sha": "64f8811b676094f62157272e41f8ccf017082ca31993f2ec8ac4dc29e731d40f",
+            "path": "data/carmods.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/carmods.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "clothes.dat",
+            "size": "5317",
+            "sha": "5fff15c81a5f8c32f4d3dff22ad6748c9b8c0a45af7b9f67e22fb2b9ae05c593",
+            "path": "data/clothes.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/clothes.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "colorcycle.dat",
+            "size": "13248",
+            "sha": "5ee34beb4de01f48f875bb98b509f2343dd6fe26654f5e8f4ba931d762a4c6ba",
+            "path": "data/colorcycle.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/colorcycle.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "default.dat",
+            "size": "577",
+            "sha": "3abbdd89a94c73c93efa95b1657e339ba25f51e84787ff63e5b5c443951fecab",
+            "path": "data/default.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/default.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "default.ide",
+            "size": "4679",
+            "sha": "3aea4d74891f77602e1e7e32e3dfd6716fcccf257e87f7ab43c57f64339ff8c2",
+            "path": "data/default.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/default.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "fonts.dat",
+            "size": "3576",
+            "sha": "173185446d11a5490ecb80ba67d37995eaf11ab8a3f465b6bfd1fcdbc1aeae69",
+            "path": "data/fonts.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/fonts.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "furnitur.dat",
+            "size": "16480",
+            "sha": "d7184e6ced806097582e38605f7f860e0070d05e8a2bdb84d6d6b0df8a92791a",
+            "path": "data/furnitur.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/furnitur.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "dynamic2.ide",
+            "size": "10508",
+            "sha": "abb7d0d17fd4b08653f12e97d211323707184fc46962c2aae3aea7f18b118d0d",
+            "path": "data/generic/dynamic2.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/generic/dynamic2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "props.ide",
+            "size": "25979",
+            "sha": "35b46cdb97fbd2c594385537e1bd1600527219904f7a3d9c223e9af57f02e065",
+            "path": "data/generic/props.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/generic/props.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "props2.ide",
+            "size": "21177",
+            "sha": "ef1de0959a7e903a15ce0f8b29451d0ba90d59ab12bbeec72caf9c4d0f9f89ba",
+            "path": "data/generic/props2.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/generic/props2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gridref.dat",
+            "size": "1498",
+            "sha": "62108eed8a03f4e61f16f83f750e54cbb894660a5c2ad104a086919dfbe13188",
+            "path": "data/gridref.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/gridref.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "gta.dat",
+            "size": "3776",
+            "sha": "391881940700b84d9d4a263374a9543e04ec816f3f76f54fdbcabe533f094c01",
+            "path": "data/gta.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/gta.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "handling.cfg",
+            "size": "64419",
+            "sha": "1694a8a01c6d4ab31ff21affbf6520d48be4cc88ca3124fe464d5f1309e84642",
+            "path": "data/handling.cfg",
+            "url": "https://raw.githubusercontent.com/joaquinnhosoaa-sudo/-v7modders/refs/heads/main/handling_speed_plus50",
+            "gpu": "all"
+        },
+        {
+            "name": "info.zon",
+            "size": "28139",
+            "sha": "9396cf9b7bec5a797fa4614ee7ab578d910ed5cdd9d475adfb35801612ec8058",
+            "path": "data/info.zon",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/info.zon",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int2.ide",
+            "size": "10934",
+            "sha": "9a4652ddc20c31d7b1ba7b2b88caf5ddb35472a718624fc269ac5fb70900c24d",
+            "path": "data/interior/gen_int2.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/interior/gen_int2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "props.ide",
+            "size": "25979",
+            "sha": "5194b4228a2c4e85c0924b9db5fef95d9b8fc0159799332608328a8e429b26f0",
+            "path": "data/interior/props.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/interior/props.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "map.zon",
+            "size": "436",
+            "sha": "4f78672e3ee70a1f5e09cd9acebe23f0597a39e275bf493a1f1c29ccfd268775",
+            "path": "data/map.zon",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/map.zon",
+            "gpu": "all"
+        },
+        {
+            "name": "Audiozon.ipl",
+            "size": "10802",
+            "sha": "43c552f2da0491b476778edaa6f233076fa6c35cf31773d30e9033b450c8d421",
+            "path": "data/maps/Audiozon.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/Audiozon.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe.ide",
+            "size": "12247",
+            "sha": "44d5d1e8846d666f76e4cd2e514a566e385cb376a24e9079e4ad345c5aea308f",
+            "path": "data/maps/LA/LAe.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAe.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe.ipl",
+            "size": "27340",
+            "sha": "107e1d2da8e1dada5400d336cba70a4ee5d0a37e85a7bd962e200f643d40b8b7",
+            "path": "data/maps/LA/LAe.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAe.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe2.ide",
+            "size": "21907",
+            "sha": "157059c2a0503a815ff98418be5fdb1e67f156986033ea538c69652613b286d5",
+            "path": "data/maps/LA/LAe2.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAe2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe2.ipl",
+            "size": "33651",
+            "sha": "0e0b143e3fd217b41dc79cb390627eba2e8d508054d10bc14d38b499a1ddd818",
+            "path": "data/maps/LA/LAe2.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAe2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAhills.ide",
+            "size": "10601",
+            "sha": "2cb585a103cd40701c742beec319055b722f10f3f3558e60438b5325e490f2dd",
+            "path": "data/maps/LA/LAhills.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAhills.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAhills.ipl",
+            "size": "40540",
+            "sha": "289f87eb450850ca232a0b366ca0e547f0c62edc881297bd299cfb92339b096d",
+            "path": "data/maps/LA/LAhills.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAhills.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn.ide",
+            "size": "11111",
+            "sha": "0f87b6df74fbdb53d1676f953eb0cb75e8a5eac1aebfeebb16daafbff4312e80",
+            "path": "data/maps/LA/LAn.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAn.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn.ipl",
+            "size": "14287",
+            "sha": "e3ee57f288a99a20e89e791cc33e722898de9dd2fb2d0998f732a7076d6a1801",
+            "path": "data/maps/LA/LAn.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAn.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn2.ide",
+            "size": "9565",
+            "sha": "d8d61f557ea211a2bc57a01d6634d6ef6bb3a46c6cbd94e9d4efb1bd8fa5d2ba",
+            "path": "data/maps/LA/LAn2.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAn2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn2.ipl",
+            "size": "13185",
+            "sha": "aa255df62b7182d939deab0e49c08aa93fd920d6a80eb44587b01d30a09cffe9",
+            "path": "data/maps/LA/LAn2.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAn2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs.ide",
+            "size": "12576",
+            "sha": "d336009d2edeef3fb633adffba6df50bf37d50c4144e11be40c48fa338f09745",
+            "path": "data/maps/LA/LAs.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAs.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs.ipl",
+            "size": "22430",
+            "sha": "66eafe0896c82d1ea6e5c4a77bddca6703ae076132a325e13f35d3cc1e8ef392",
+            "path": "data/maps/LA/LAs.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAs.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs2.ide",
+            "size": "12370",
+            "sha": "22f13d85c13d18207dafe1cb8091d592a30c6034213003dc0435ce0a40c52cf7",
+            "path": "data/maps/LA/LAs2.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAs2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs2.ipl",
+            "size": "38465",
+            "sha": "49d7b8e598297a52364137b480b0e14e914c5aa3de799aeecc69ef8f200ebe12",
+            "path": "data/maps/LA/LAs2.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAs2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw.ide",
+            "size": "9412",
+            "sha": "eaf115db8ae2d4063afd8dfeb97b1c59b70aaca1f18d74c7dfdbade1b195f725",
+            "path": "data/maps/LA/LAw.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAw.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw.ipl",
+            "size": "15113",
+            "sha": "e4152b6b1815578a8380d7f1fa21a994b886e3e634b9d2e15d748573ccf978e3",
+            "path": "data/maps/LA/LAw.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAw.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw2.ide",
+            "size": "11062",
+            "sha": "73c0d61be15a45ec5b5290c2b49428771772f6bbf97d4cae128084ff38835459",
+            "path": "data/maps/LA/LAw2.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAw2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw2.ipl",
+            "size": "18240",
+            "sha": "634dc5202ffe409ced4758e11dea458621d1a43260b4b5f902bfff0d82da5c65",
+            "path": "data/maps/LA/LAw2.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAw2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAxref.ide",
+            "size": "10477",
+            "sha": "8d4f508d062fb0bbb7c9a5bc90c7070e833e4b5043097d457db763f504802745",
+            "path": "data/maps/LA/LAxref.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LAxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LaWn.ide",
+            "size": "13098",
+            "sha": "5ff18dfa6defffee2cc3d0d125cdfadefec7f0314bd2258d56f6dc19787f483b",
+            "path": "data/maps/LA/LaWn.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LaWn.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LaWn.ipl",
+            "size": "24334",
+            "sha": "c732536da4b5124f9a96d1ef95788534a10697550319f62446a264ec4c6ae26d",
+            "path": "data/maps/LA/LaWn.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LaWn.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LaWn2.ipl",
+            "size": "24330",
+            "sha": "b34a1e49bf3b2b4569fdcf69e5f1525394ec49e6cdcc13d6ede7b99468272c94",
+            "path": "data/maps/LA/LaWn2.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/LA/LaWn2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFSe.ide",
+            "size": "30239",
+            "sha": "1a9ceb12e36f213071c92317e0300318a1d40c67c07e6252779f07541a7f85bd",
+            "path": "data/maps/SF/SFSe.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/SF/SFSe.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFSe.ipl",
+            "size": "53778",
+            "sha": "162a0a3e5438d87b2ddf8d538f52b6f2cf26feb1c5cecbe52811fcf0ec8c7c04",
+            "path": "data/maps/SF/SFSe.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/SF/SFSe.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFe.ide",
+            "size": "16224",
+            "sha": "96fe8a76d0da486a739ec3f20c58ceda11cd20777eed200b8a10df7bb5f34528",
+            "path": "data/maps/SF/SFe.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/SF/SFe.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFe.ipl",
+            "size": "26707",
+            "sha": "0b8bb34c554b247c8aed8e309b710be27bcee66ca029323215ed6efe10eedd1c",
+            "path": "data/maps/SF/SFe.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/SF/SFe.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFn.ide",
+            "size": "11219",
+            "sha": "505d48b1c448f292083c51d331d4caa365d61e84c64cd3d2362fe3247a1ddd9b",
+            "path": "data/maps/SF/SFn.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/SF/SFn.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFn.ipl",
+            "size": "26201",
+            "sha": "cc169fe857e1da974d3605ba112452d7de0832455582e317d75ff8619fd4f73a",
+            "path": "data/maps/SF/SFn.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/SF/SFn.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFs.ide",
+            "size": "18948",
+            "sha": "5a7a642e48f68018626aac64aa47627fd4ae75d7c535a2bb86449e78c6565e53",
+            "path": "data/maps/SF/SFs.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/SF/SFs.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFs.ipl",
+            "size": "37973",
+            "sha": "a1a8b9cd4f3ba6d395d0d2e1c60add660cd1467a3879c2217c25918f8584a028",
+            "path": "data/maps/SF/SFs.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/SF/SFs.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFw.ide",
+            "size": "16474",
+            "sha": "99d2bb6adb1401c83d46c1e503b940eb6eb767dab20b0b8530447c80e3a41a72",
+            "path": "data/maps/SF/SFw.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/SF/SFw.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFw.ipl",
+            "size": "29613",
+            "sha": "f63366d75b51c33a5b8669d883fe0d8eb24c57ca1c08f96d15fdce7569853f3b",
+            "path": "data/maps/SF/SFw.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/SF/SFw.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFxref.ide",
+            "size": "4631",
+            "sha": "efdbdbfff67a9b8a71d4b8b250505911966708e15a3627fa8550a7063085de00",
+            "path": "data/maps/SF/SFxref.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/SF/SFxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countn2.ide",
+            "size": "35446",
+            "sha": "1acb457d190411b76988b86e75f63282748acf428a49ae44fc3fb47f665cb18e",
+            "path": "data/maps/country/countn2.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/country/countn2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countn2.ipl",
+            "size": "41665",
+            "sha": "3afc8a78a31cb41299136687debcf69740cf8bd965bbd17762ecbe9345bef9ab",
+            "path": "data/maps/country/countn2.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/country/countn2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryN.ide",
+            "size": "11308",
+            "sha": "0e29f8d6ef0294e3e430109a0fcb27fff783de16b8877d81370ad348ba1397ff",
+            "path": "data/maps/country/countryN.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/country/countryN.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countryN.ipl",
+            "size": "14419",
+            "sha": "466df22a963b7bb363c20969e5a140953f95e22ed554d08a540c45f6bdb7f316",
+            "path": "data/maps/country/countryN.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/country/countryN.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryS.ide",
+            "size": "18456",
+            "sha": "4223d6a1ef613a8681a8bfc8f1d1861c38e78322ff3d3c46ef80fc556c078acf",
+            "path": "data/maps/country/countryS.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/country/countryS.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countryS.ipl",
+            "size": "33852",
+            "sha": "bef5b832756c4ea309e5ed793a4c1aebc92ed19bb1aee05e068d8bc90480fc56",
+            "path": "data/maps/country/countryS.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/country/countryS.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryW.ide",
+            "size": "19700",
+            "sha": "142de37827fda0ace2f0af4c6f83f283d8c3a61080249120df4b1af2006ac36d",
+            "path": "data/maps/country/countryW.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/country/countryW.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countrye.ide",
+            "size": "34529",
+            "sha": "db23cd3a79c6f069fff6f25fec644fc52af84c277cbd4b5917a3199317773fad",
+            "path": "data/maps/country/countrye.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/country/countrye.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countrye.ipl",
+            "size": "49301",
+            "sha": "d611734b0e0260870c9a46d33121650ca306a35f7b152bee27ff97a422ae4748",
+            "path": "data/maps/country/countrye.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/country/countrye.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryw.ipl",
+            "size": "35037",
+            "sha": "38d6f4dcc5c234870834b67da4ab12d63b76ab15a1dfd405e5caf72b02721f9f",
+            "path": "data/maps/country/countryw.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/country/countryw.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "counxref.ide",
+            "size": "8494",
+            "sha": "1f9dff83201ff049a15fe8d1e3a9839c5845eb98ecc2502708b3a99223ed947c",
+            "path": "data/maps/country/counxref.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/country/counxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "cull.ipl",
+            "size": "104318",
+            "sha": "a75be13e83f5255e5cc013302b2233b7059499095b06acfe3f66d72f6fa8413e",
+            "path": "data/maps/cull.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/cull.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "barriers.ide",
+            "size": "1437",
+            "sha": "5b69700e5dd563e6b8b120f881e459cd7eb10550ecf5e8c1cd57b47577378223",
+            "path": "data/maps/generic/barriers.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/generic/barriers.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "dynamic.ide",
+            "size": "4611",
+            "sha": "fdc45477f05b63bb4df3d65ea0bbb5c82fa3ad85cc799976266f7f7cebc6410a",
+            "path": "data/maps/generic/dynamic.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/generic/dynamic.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "dynamic2.ide",
+            "size": "10510",
+            "sha": "cde6230b3f81a09bc92894d03626081fbd1cf0c09c38a43d62f86f2f0e613f45",
+            "path": "data/maps/generic/dynamic2.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/generic/dynamic2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "multiobj.ide",
+            "size": "5023",
+            "sha": "97f5b50915a62ca5d8cd7195b594a77e297d90313103adcd35598f21631a11ae",
+            "path": "data/maps/generic/multiobj.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/generic/multiobj.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "procobj.ide",
+            "size": "4755",
+            "sha": "38b1b15e73891d130a85730d7ebfb0e3b649ff2ee5b8e414eccd68318b9246a0",
+            "path": "data/maps/generic/procobj.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/generic/procobj.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegepart.ide",
+            "size": "8062",
+            "sha": "db7827eafd3499b0d738bac83e972776ee6cacb364a2181fc6f479242577eb3a",
+            "path": "data/maps/generic/vegepart.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/generic/vegepart.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int1.ide",
+            "size": "2747",
+            "sha": "470d6c371015631075458870438953f1f581a5e3aadda6d6760bfb0cecd830a1",
+            "path": "data/maps/interior/gen_int1.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/gen_int1.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int1.ipl",
+            "size": "21074",
+            "sha": "33129ba14fa76515909906c0dc2cb08f5aed921643c39814638ad9267ab0a614",
+            "path": "data/maps/interior/gen_int1.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/gen_int1.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int2.ide",
+            "size": "10941",
+            "sha": "e1d8a2247ba9da1d242baeff95169b4982ef7289cff626692c25a2785e308544",
+            "path": "data/maps/interior/gen_int2.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/gen_int2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int2.ipl",
+            "size": "1683",
+            "sha": "a779e8c280cad2fc2d8a0a107336a7ca8e87007c2d1db36f6c62c07eece1e799",
+            "path": "data/maps/interior/gen_int2.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/gen_int2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int3.ide",
+            "size": "3252",
+            "sha": "a0762a373a240c6278aeb624eadde85312e7f39ecf14891df07042972d0553aa",
+            "path": "data/maps/interior/gen_int3.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/gen_int3.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int3.ipl",
+            "size": "2091",
+            "sha": "eacf70fbd06fe19c9dc028f81eedbf582a2694db0a73d33b5f34ecd70e8b7afb",
+            "path": "data/maps/interior/gen_int3.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/gen_int3.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int4.ide",
+            "size": "2323",
+            "sha": "50e9826c69e68258966068aa37f7185ef76776c276f61f1285bcbeda4d8c6e0e",
+            "path": "data/maps/interior/gen_int4.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/gen_int4.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int4.ipl",
+            "size": "1185",
+            "sha": "5769ca2f39579ee0c43b31658e41b7af3264e4b54e76c70229a4b4fe5916e6e0",
+            "path": "data/maps/interior/gen_int4.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/gen_int4.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int5.ide",
+            "size": "4682",
+            "sha": "88ba64416b2c8c430761790ff080ebf43077ba338188c94a78cee5e4f73d2d38",
+            "path": "data/maps/interior/gen_int5.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/gen_int5.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int5.ipl",
+            "size": "2988",
+            "sha": "192ba7b31a68ae86a9767d40f7b3918b5da70dbb4445dfe780ac135ae94221a1",
+            "path": "data/maps/interior/gen_int5.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/gen_int5.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_intb.ide",
+            "size": "5459",
+            "sha": "bd694f4c11fb8ca6171d8e7e61a3b71ebdd3e7885667d8e77ae240dcf0c6ef6a",
+            "path": "data/maps/interior/gen_intb.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/gen_intb.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_intb.ipl",
+            "size": "1626",
+            "sha": "76facdeb795adfcd9642c3beaa0d931d90682d12630f2b7ef242b09c4ac14cbe",
+            "path": "data/maps/interior/gen_intb.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/gen_intb.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_LA.ide",
+            "size": "6004",
+            "sha": "369dcb928bdc5e6d8649b07df9b3cb895ba9a9dba805e94d6ff8201a9d633646",
+            "path": "data/maps/interior/int_LA.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/int_LA.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_LA.ipl",
+            "size": "1312",
+            "sha": "6daed19fdfa6f325468668a00065999bef9a8e4fff03039e552b8f4533a74d2d",
+            "path": "data/maps/interior/int_LA.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/int_LA.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_SF.ide",
+            "size": "1260",
+            "sha": "384d9de6e3a8ff1c4248fa11261863dee3748b3553f7722ed946a4d8aca2a806",
+            "path": "data/maps/interior/int_SF.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/int_SF.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_SF.ipl",
+            "size": "1334",
+            "sha": "ae36a8df0e4c502af96c661a105b28a7e08cf8a71774d07fdc0b63a0ab924fe2",
+            "path": "data/maps/interior/int_SF.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/int_SF.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_cont.ide",
+            "size": "385",
+            "sha": "715a381b2e4455594733639ef7a7a0fcde15c0f6d5ac6d8951705fe6e0eef7dd",
+            "path": "data/maps/interior/int_cont.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/int_cont.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_cont.ipl",
+            "size": "910",
+            "sha": "01d68d96bfbfda67102141a9411ccb64499a8f7a50a641220ce7b22012a540a7",
+            "path": "data/maps/interior/int_cont.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/int_cont.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_veg.ide",
+            "size": "4684",
+            "sha": "c3ad8ecb96b83f2c728ee62f61f4bdcb92dc9ba65f4d1c876704167c07ccef34",
+            "path": "data/maps/interior/int_veg.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/int_veg.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_veg.ipl",
+            "size": "5299",
+            "sha": "115974e58e84ac9772806c8f16a2e322b8b7ce14198480e27f0505872e943f2d",
+            "path": "data/maps/interior/int_veg.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/int_veg.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "propext.ide",
+            "size": "2340",
+            "sha": "07ff34faa2883f97fb1c538e45e92b7951463eeb8eba6d053432984f4e9abe99",
+            "path": "data/maps/interior/propext.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/propext.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "props.ide",
+            "size": "26330",
+            "sha": "fa88ada1265af6e1792c543edca79871a3516b15299b7d25833d0a8014a213d8",
+            "path": "data/maps/interior/props.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/props.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "props2.ide",
+            "size": "21186",
+            "sha": "524e2ce9cb573eec4db3c33a9eeb4887042f18afdbe6a6b3b6e503e3f09de25d",
+            "path": "data/maps/interior/props2.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/props2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "savehous.ide",
+            "size": "1724",
+            "sha": "48d840b6e18dee698982158f70f30b3c0eb406286ae9e7e70744061c86abf19a",
+            "path": "data/maps/interior/savehous.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/savehous.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "savehous.ipl",
+            "size": "2959",
+            "sha": "eb7b018ba03f934b14fa9ac11f7e151173e669d1c7f69a4d162c0a88a092ec38",
+            "path": "data/maps/interior/savehous.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/savehous.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "stadint.ide",
+            "size": "2851",
+            "sha": "e2d66db082e7d439472e71ad995bde42b91a9a382eb53f6369e46c1179778307",
+            "path": "data/maps/interior/stadint.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/stadint.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "stadint.ipl",
+            "size": "6299",
+            "sha": "f0720fd785069839b9b28a87ce80ede2cf8d4beb58bb009bcd50195ee54a962a",
+            "path": "data/maps/interior/stadint.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/interior/stadint.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "leveldes.ide",
+            "size": "360",
+            "sha": "5c4cda0261a8302acd997679b3bbe604754423a7b0ce30707bfb81d7f1d569d4",
+            "path": "data/maps/leveldes/leveldes.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/leveldes/leveldes.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "leveldes.ipl",
+            "size": "165",
+            "sha": "a023d0150ceb2b0d571901ca1d22a2a1377337ac874d593a574eb7426bed65f2",
+            "path": "data/maps/leveldes/leveldes.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/leveldes/leveldes.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "levelmap.ide",
+            "size": "3194",
+            "sha": "c5d635c1ebd2fdd9f85c990dcf51e37f73ad8bc2e759dd5daa8ab13f45dad74d",
+            "path": "data/maps/leveldes/levelmap.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/leveldes/levelmap.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "levelmap.ipl",
+            "size": "4675",
+            "sha": "2bacd4d04c78e17e9f34368352c5220e09cbabc45d080d3cd7005097f9d4c7d5",
+            "path": "data/maps/leveldes/levelmap.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/leveldes/levelmap.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "levelxre.ide",
+            "size": "9897",
+            "sha": "330612dcd0250927a6931629c78d899891f7462306058637a2ea71bd2981fce2",
+            "path": "data/maps/leveldes/levelxre.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/leveldes/levelxre.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "seabed.ide",
+            "size": "12039",
+            "sha": "5c57137733b59ec7455e821947c9fa5fb1051f69c9499a2c916ef72b77e01256",
+            "path": "data/maps/leveldes/seabed.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/leveldes/seabed.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "seabed.ipl",
+            "size": "23342",
+            "sha": "4f8c7c66864c454a8546257beb54a34a1397d2d637b2c77c70cd16925ec2ab21",
+            "path": "data/maps/leveldes/seabed.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/leveldes/seabed.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occlu.ipl",
+            "size": "1012",
+            "sha": "b79d16581e954255ec06394b4c1ad6303ec6ed9eeb79a44ae51764f8d9a708c7",
+            "path": "data/maps/occlu.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/occlu.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occluLA.ipl",
+            "size": "40156",
+            "sha": "9fcbcb076bef1ad72e1534b714da140b35c288d5b4744919091ee09757b0e1fb",
+            "path": "data/maps/occluLA.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/occluLA.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occluint.ipl",
+            "size": "2338",
+            "sha": "23d5054e2f69d052c305c21b860c40cc135b4509d3b1aa84ca974716b25fefe0",
+            "path": "data/maps/occluint.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/occluint.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occlusf.ipl",
+            "size": "18441",
+            "sha": "eaeb7f7600bdc910d19411ae7fdf90c43ac1f8697e26e5286b1a2bd06541ef4e",
+            "path": "data/maps/occlusf.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/occlusf.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occluveg.ipl",
+            "size": "20317",
+            "sha": "daa8e00af50d31157c80dd78ac040bdb543b5d9d1c0b20ee62a17e66ba28242b",
+            "path": "data/maps/occluveg.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/occluveg.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths.ipl",
+            "size": "2658607",
+            "sha": "1b8b896eda941aaf31391af571c52d371f5d7617cb2ccf44d148f80e464142ea",
+            "path": "data/maps/paths.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/paths.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths2.ipl",
+            "size": "2292241",
+            "sha": "70a6488bf2c39e486262c6396164c7135b3966797d978d49dcc4788d6242bb1d",
+            "path": "data/maps/paths2.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/paths2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths3.ipl",
+            "size": "2428066",
+            "sha": "50a8a882a36c6a39fdbe417000e27579d0f37541df3a0d54bc306c5a70316c5a",
+            "path": "data/maps/paths3.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/paths3.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths4.ipl",
+            "size": "253014",
+            "sha": "9e770e5ce9724b94ca74dd9256534e233f0b37b0ff72d0001dd1cf93fe5f9f25",
+            "path": "data/maps/paths4.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/paths4.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths5.ipl",
+            "size": "457678",
+            "sha": "67fc1be4e28dd4837d7d3f369e0d8b1ceae67f1e507959fd2c38cbce4e15949c",
+            "path": "data/maps/paths5.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/paths5.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "acessories.ide",
+            "size": "2797",
+            "sha": "afb6d2ae9ee4c0069a6de3e45bac17aad23a11520d60d31cfe48405f217c8dc0",
+            "path": "data/maps/reduto/acessories.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/acessories.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "cracolandia.ipl",
+            "size": "56662",
+            "sha": "905cb57bdfc19821b93a404f8b398359f567f96591e572a54ba3bbbf59a10406",
+            "path": "data/maps/reduto/cracolandia.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/cracolandia.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "delegacias.ipl",
+            "size": "235525",
+            "sha": "abbf74e0df7d236c09ed4b002fbaab06c954a302bfd124b25bdf80ed5b0c60d2",
+            "path": "data/maps/reduto/delegacias.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/delegacias.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "empregos.ipl",
+            "size": "68387",
+            "sha": "a1aa985558db324406fd4aad1dd51b699c305979ee70580f1dbac7a93de0e191",
+            "path": "data/maps/reduto/empregos.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/empregos.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "favelas.ipl",
+            "size": "319253",
+            "sha": "8c896af6938b477144c45e7afea0519db762f267420107cdb19f3de6358540ca",
+            "path": "data/maps/reduto/favelas.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/favelas.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "hairs.ide",
+            "size": "2423",
+            "sha": "f9f2bf610f706eb8a5ea05c00c35f0612e59a3a5a268b627824d49e038fc8eee",
+            "path": "data/maps/reduto/hairs.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/hairs.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "interiores.ipl",
+            "size": "578",
+            "sha": "9c74048e3466f697bc458d399f60b2981bf2f5c47fca8445930c43bcd45dcfe9",
+            "path": "data/maps/reduto/interiores.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/interiores.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "lojinha.ipl",
+            "size": "5673",
+            "sha": "2a1c779089cf4e00bc86f6097abfb0a16803cee4a5c9a2d9ce99d43806186aad",
+            "path": "data/maps/reduto/lojinha.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/lojinha.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "mecs.ipl",
+            "size": "14112",
+            "sha": "7ccf047f639e4174e4716d31758a8a3af5b77e54c41c10de7c9c2d6a9f0269cf",
+            "path": "data/maps/reduto/mecs.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/mecs.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "postos.ipl",
+            "size": "3599",
+            "sha": "668ed81735f685160889ac455425cbc3b6da54ec36775f0ca7a1c505cd414690",
+            "path": "data/maps/reduto/postos.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/postos.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "prisao.ipl",
+            "size": "3846",
+            "sha": "4886143eac79bfc3bd292ca7cdcb91849ffcc6af9919af9cb81740fe49b15a51",
+            "path": "data/maps/reduto/prisao.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/prisao.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "publicos.ipl",
+            "size": "218692",
+            "sha": "27add5273d354bd76b4efcaea35c3bbd13204b8c8ab97985cac466ee08aa0c7c",
+            "path": "data/maps/reduto/publicos.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/publicos.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "reduto.ide",
+            "size": "6642",
+            "sha": "b71a600d627ea90a7b3ef1b93eceefefcf665490ec1bd1f4469f41b020a8c1df",
+            "path": "data/maps/reduto/reduto.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/reduto.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "reduto_zones.ipl",
+            "size": "798",
+            "sha": "43f27980894aae934c64208aee237598c0e184d7bbd0a54146db24ec4f7b7b88",
+            "path": "data/maps/reduto/reduto_zones.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/reduto/reduto_zones.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "tunnels.ipl",
+            "size": "3231",
+            "sha": "f1e26f76a93db8eae86fcf93c307e65d282104e82dc323b806d62e36790c9ff0",
+            "path": "data/maps/tunnels.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/tunnels.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "VegasN.ide",
+            "size": "23715",
+            "sha": "394aa4049796756c6773075f5954b9c93ab6963f05c29afd781d556638c6f53a",
+            "path": "data/maps/vegas/VegasN.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/vegas/VegasN.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "VegasS.ide",
+            "size": "18656",
+            "sha": "1eb065129758bf0d71a820f7fcc3074b8b60a95547adcaeb3c5177f8660a1bbc",
+            "path": "data/maps/vegas/VegasS.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/vegas/VegasS.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "VegasW.ide",
+            "size": "25456",
+            "sha": "6499b130002d706e7808c63d7570b35030d4af89d211c43e5dc1ee1b9c9ea238",
+            "path": "data/maps/vegas/VegasW.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/vegas/VegasW.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasE.ide",
+            "size": "35539",
+            "sha": "3a4c40218455410a71f41cacc3e8b49b4701a570fd1759a286bce61b7afadae1",
+            "path": "data/maps/vegas/vegasE.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/vegas/vegasE.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasE.ipl",
+            "size": "61088",
+            "sha": "56603269adf85e4d17a67cd880728f6e960e3e372a7e696bceb77feb5126b12f",
+            "path": "data/maps/vegas/vegasE.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/vegas/vegasE.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasN.ipl",
+            "size": "36651",
+            "sha": "a2a67b14a3ccab29c9ca4cc2a579b286ff7c1364b8448bc910e4ed6d1bbde4a7",
+            "path": "data/maps/vegas/vegasN.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/vegas/vegasN.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasS.ipl",
+            "size": "30343",
+            "sha": "8608f4bcc70927fc50928a3189a9f4d96320f85db052c7e15f6fea6d40f8cec4",
+            "path": "data/maps/vegas/vegasS.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/vegas/vegasS.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasW.ipl",
+            "size": "49867",
+            "sha": "8772cd91905a1374886376d7f0a508c666fd8b91478c5f3afc87673ae4e78abc",
+            "path": "data/maps/vegas/vegasW.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/vegas/vegasW.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "vegaxref.ide",
+            "size": "5751",
+            "sha": "b52b2622a39a25f62b25960e69e30a96ac43f2e76a2a428aa9d49ee51eca93ed",
+            "path": "data/maps/vegas/vegaxref.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/vegas/vegaxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegaxref.ipl",
+            "size": "3661",
+            "sha": "45a15259f02a25fcbd3a575ae2a0846a688aafc5bda2c525fa59626e1006557e",
+            "path": "data/maps/vegas/vegaxref.ipl",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/vegas/vegaxref.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "veh_mods.ide",
+            "size": "7323",
+            "sha": "0338813d49e3c1d92d7f660357d0ab6a6778e65a2e05b0c9cb1f99ffd29c3edc",
+            "path": "data/maps/veh_mods/veh_mods.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/maps/veh_mods/veh_mods.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "melee.dat",
+            "size": "6306",
+            "sha": "d82430a32f31c239c38e1db8c83589307fb221fce417962993a8c63cb1d3da4b",
+            "path": "data/melee.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/melee.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "object.dat",
+            "size": "126358",
+            "sha": "78cac294f04fbd62aa28e49c57d1092d9dd2266c6dfef96c42b65d53e150bc93",
+            "path": "data/object.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/object.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "ROADBLOX.DAT",
+            "size": "1304",
+            "sha": "2da412adc28eefd4b406df53e0ab2693eb564d8dfeb73f31ca771022280342ef",
+            "path": "data/paths/ROADBLOX.DAT",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/paths/ROADBLOX.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "carrec.img",
+            "size": "2357248",
+            "sha": "207d3d1cbcf07744dd6b3110d977d3838e53970d785e465dcada3dee5e08c522",
+            "path": "data/paths/carrec.img",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/paths/carrec.img",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks.dat",
+            "size": "25474",
+            "sha": "9f3509865baa1424cedce8c9185f93bf575eb1d6cb2e114f1c704f07f92d0f55",
+            "path": "data/paths/tracks.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/paths/tracks.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks2.dat",
+            "size": "1892",
+            "sha": "f30af4dd0b7948321db633d4964898961b4ae97f5c29b6ca1cdcb9b77e6f4985",
+            "path": "data/paths/tracks2.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/paths/tracks2.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks3.dat",
+            "size": "8328",
+            "sha": "b8ed468ae2aa953250f5f9bcf1ff34ec7a413cfca63357a6a531f37dfb9b5767",
+            "path": "data/paths/tracks3.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/paths/tracks3.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks4.dat",
+            "size": "18347",
+            "sha": "e8decea200f701498cf1414a4d6accb1dc6fdeb147ac30cd3500e0ae27cdcd69",
+            "path": "data/paths/tracks4.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/paths/tracks4.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "ped.dat",
+            "size": "1276",
+            "sha": "fa4a2636ba772080c75d0986379a862c4c2f7cf7bf6c1550557f3557236b450e",
+            "path": "data/ped.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/ped.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "pedgrp.dat",
+            "size": "5792",
+            "sha": "157f429231421f37d44b2b4890b14ee0537f7f32a8bdf71a140340ac04770222",
+            "path": "data/pedgrp.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/pedgrp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "peds.ide",
+            "size": "33401",
+            "sha": "ec16c488c40f2c563c475130eb7ef633a024ac6bc0f01e8bfb248972a241af92",
+            "path": "data/peds.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/peds.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "pedstats.dat",
+            "size": "3604",
+            "sha": "280c12e4f8b36f6e68b68323fb3d01d853b9a91bf4497964ce5159abfd84d684",
+            "path": "data/pedstats.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/pedstats.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "plants.dat",
+            "size": "9887",
+            "sha": "d989d13c540be6e8c7e381ac1785a61a99ca8dc97002ed9013a0312b5dab08a8",
+            "path": "data/plants.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/plants.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "popcycle.dat",
+            "size": "127108",
+            "sha": "7adf28ff336d652a0d85cd8c9cb37379755e7f68a00b3637ea4afc4d4184aac7",
+            "path": "data/popcycle.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/popcycle.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "procobj.dat",
+            "size": "10019",
+            "sha": "b41895965d087b90aa8b11a66849002a08256a27010209b2b534e0f4438d95c5",
+            "path": "data/procobj.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/procobj.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "mainV1.scm",
+            "size": "3169778",
+            "sha": "c09e88e03e726a2f061bbbdf7a9ae8e8c3af0881092bd6be0c48054d0a93e60d",
+            "path": "data/script/mainV1.scm",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/script/mainV1.scm",
+            "gpu": "all"
+        },
+        {
+            "name": "scriptv1.img",
+            "size": "561152",
+            "sha": "d7d76957df37eb85b2df3aff1cf9ab9963a152b19e4a208cd5e49e72a457f525",
+            "path": "data/script/scriptv1.img",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/script/scriptv1.img",
+            "gpu": "all"
+        },
+        {
+            "name": "shopping.dat",
+            "size": "46875",
+            "sha": "93e640e29049ee9985185b7aaf1b2f3d11f8540ff8791a751632d6ba90d0bd4d",
+            "path": "data/shopping.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/shopping.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "statdisp.dat",
+            "size": "7292",
+            "sha": "b0a95199c27656c43f3f3b0d7bb302649c7605a563634cdf81116929b89e04ab",
+            "path": "data/statdisp.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/statdisp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "surface.dat",
+            "size": "576",
+            "sha": "09cf086c44c2409f6d5f40f58d7a753f0384d227b7f8c27fec7fe5dbe56c4a90",
+            "path": "data/surface.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/surface.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "surfaud.dat",
+            "size": "6530",
+            "sha": "5a25dfb38743e42b46f7979941f9fa8a1201788e91f991975dfed997aa4db605",
+            "path": "data/surfaud.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/surfaud.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "surfinfo.dat",
+            "size": "28106",
+            "sha": "431b95d4dcb20ce5258f7d939902c56d50fb4ee68b30ed7a044919c666291b55",
+            "path": "data/surfinfo.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/surfinfo.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "timecyc.dat",
+            "size": "40811",
+            "sha": "43ed8dadfd3b8fc1e79b024c18b3481d8568cb4aa8ec111d3dde25fcf96c9eb2",
+            "path": "data/timecyc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/timecyc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "timecycp.dat",
+            "size": "40520",
+            "sha": "34989779a9868a0e54f64edb2b5813d65eabe18f1ecf01bcbb9188a5a6964584",
+            "path": "data/timecycp.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/timecycp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "txdcut.ide",
+            "size": "478",
+            "sha": "68299b02ec1f00da7a93a400742c9f8edf3b776cf339431228af969f95249055",
+            "path": "data/txdcut.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/txdcut.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicles.ide",
+            "size": "21061",
+            "sha": "81a381800ec8cbe89a24e5b1b11d8d0dd97fa842c95eb1920e3f954048c19630",
+            "path": "data/vehicles.ide",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/vehicles.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "water.dat",
+            "size": "67126",
+            "sha": "dbe7cba19d6d7e3859817764fc3c0a9cd511b74c837eb841915b4fd1d171c396",
+            "path": "data/water.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/water.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "water1.dat",
+            "size": "60063",
+            "sha": "c43d750c3a9b1d645235f0c987fac3b1f2fa20aafd78449e831f2aea36de5f68",
+            "path": "data/water1.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/water1.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "water_bak.dat",
+            "size": "70099",
+            "sha": "1562bc86766ce595d7513f3ca3ae3fc4147b574c8c4e703fe6a76678507969bf",
+            "path": "data/water_bak.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/water_bak.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "weapon.dat",
+            "size": "12495",
+            "sha": "2796e7bd2332eabc1ce2310a40ac0081a2983edd8d45f48f8ec6c3d993918235",
+            "path": "data/weapon.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/data/weapon.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "Roboto-Bold.ttf",
+            "size": "146760",
+            "sha": "57b40c38d6cc65f07c23ec0319b82904fe65e05dc40b5a13ac60a18fb5943bf1",
+            "path": "fonts/Roboto-Bold.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/Roboto-Bold.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "arial.ttf",
+            "size": "367112",
+            "sha": "413c78f91bd39e134f3c0bb204b1d5a90f29df9efddc8fd26950a178058d5d74",
+            "path": "fonts/arial.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/arial.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "arial_bold.ttf",
+            "size": "352224",
+            "sha": "df70597f0bdf49da3af270138f8a34396e4f5618c671a1db3480e626f38aaece",
+            "path": "fonts/arial_bold.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/arial_bold.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "arial_bold_thai.ttf",
+            "size": "91696",
+            "sha": "5499693badcf1ee02ea353676cfd352c20676c1b7fc59a83ecc1e0c48a0cde22",
+            "path": "fonts/arial_bold_thai.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/arial_bold_thai.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "georgia.ttf",
+            "size": "219712",
+            "sha": "38dffcaf1fac89492f7c56c600a14daf36ae42f7c21985cd4134ae113124a58f",
+            "path": "fonts/georgia.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/georgia.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "gtaweap3.ttf",
+            "size": "104004",
+            "sha": "b7d7a38d4f6b729e961984eaec1248c5bdcf925d3d869a7e944e246e777a5271",
+            "path": "fonts/gtaweap3.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/gtaweap3.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "impact.ttf",
+            "size": "206784",
+            "sha": "d8bbdb72e3f930157824b2e59677d3a912d4512c14a948e6656a2e3fb0c935ad",
+            "path": "fonts/impact.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/impact.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "palatino_linotype.ttf",
+            "size": "489884",
+            "sha": "80d79cb49ca8562bb8cd230b0787177434fa2840cff732c7f047453081afa730",
+            "path": "fonts/palatino_linotype.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/palatino_linotype.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "quartz_ms.ttf",
+            "size": "51032",
+            "sha": "6ac1992993774705ff4983bd306c8d5f9ca3168ad997226abdfb07c3e23de6ea",
+            "path": "fonts/quartz_ms.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/quartz_ms.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "segoe_print.ttf",
+            "size": "172448",
+            "sha": "4061e7eb9833327b08b56aa354455a4f5263e0e2ebd57ea1c9071a96d90fad35",
+            "path": "fonts/segoe_print.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/segoe_print.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "segoe_script.ttf",
+            "size": "620204",
+            "sha": "8f6328619340426b2c985f6fd305bb64d164b20b20a5b493a21533761bd5d631",
+            "path": "fonts/segoe_script.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/segoe_script.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "tahoma.ttf",
+            "size": "939280",
+            "sha": "b890858df485549d20fcb0a2c519dffe9c5c155d16b55e0b9252d6e66db555e5",
+            "path": "fonts/tahoma.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/tahoma.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "webdings.ttf",
+            "size": "120560",
+            "sha": "67461fabd8329d0d8ad62689cac642b34fac81c754ff9077ad211160ec62282d",
+            "path": "fonts/webdings.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/webdings.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "wingding.ttf",
+            "size": "82180",
+            "sha": "9bcd6064e3b52fa30a347edd6e82506e2ec8b1602930b423c629a82c10468a5b",
+            "path": "fonts/wingding.ttf",
+            "url": "https://desenvolvimento.reduto.online/beta/files/fonts/wingding.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "barber.rimg",
+            "size": "139297734",
+            "sha": "b7358ddcaf4bfc4ace5f3da200819f6ebfe9f6cabb31e358d8ec93c226a5fa89",
+            "path": "images/barber.rimg",
+            "url": "https://desenvolvimento.reduto.online/beta/files/images/barber.rimg",
+            "gpu": "all"
+        },
+        {
+            "name": "clothes.rimg",
+            "size": "105162113",
+            "sha": "8ae105de967f5cba5715721b78aca1478afa83591dae569ed7d362892d68b95d",
+            "path": "images/clothes.rimg",
+            "url": "https://desenvolvimento.reduto.online/beta/files/images/clothes.rimg",
+            "gpu": "all"
+        },
+        {
+            "name": "peds.col",
+            "size": "21477",
+            "sha": "d6faa88b9227e6f6fe286f69cfd8d7348229bda267b21125b7daea4d3dd23d10",
+            "path": "models/coll/peds.col",
+            "url": "https://desenvolvimento.reduto.online/beta/files/models/coll/peds.col",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicles.col",
+            "size": "1096",
+            "sha": "4b6fa3aacf7d8be7aabf2e7048b5d7bd9bc89991b13f4f3d7334047a4f5359cf",
+            "path": "models/coll/vehicles.col",
+            "url": "https://desenvolvimento.reduto.online/beta/files/models/coll/vehicles.col",
+            "gpu": "all"
+        },
+        {
+            "name": "weapons.col",
+            "size": "560",
+            "sha": "389a5656e0496486e1c546e1e8ffd5399c1563c717f8238dcfdee3b6756903e6",
+            "path": "models/coll/weapons.col",
+            "url": "https://desenvolvimento.reduto.online/beta/files/models/coll/weapons.col",
+            "gpu": "all"
+        },
+        {
+            "name": "effects.fxp",
+            "size": "616708",
+            "sha": "95c1915d39fd8df2292f6ec78b9476d4b3f86a65af5c0c0d222b6534adf44679",
+            "path": "models/effects.fxp",
+            "url": "https://desenvolvimento.reduto.online/beta/files/models/effects.fxp",
+            "gpu": "all"
+        },
+        {
+            "name": "reduto.set",
+            "size": "167",
+            "sha": "bb867ee067e0e9dfbdeecffe0c334be02b490712cbda070aaa1814b651f6ecb4",
+            "path": "reduto.set",
+            "url": "https://desenvolvimento.reduto.online/beta/files/reduto.set",
+            "gpu": "all"
+        },
+        {
+            "name": "scache.txt",
+            "size": "3883",
+            "sha": "663e81e744c5c943697017659ae4183dd111d16e82bfc9c10ad5165671d2f78b",
+            "path": "scache.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/scache.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "scache_small.txt",
+            "size": "1010",
+            "sha": "0d5ed61fbb05c745b83925b5f9f1693e892c1b521a2920a968152f63bef032de",
+            "path": "scache_small.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/scache_small.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "scache_small_low.txt",
+            "size": "943",
+            "sha": "c1b61662bfb677ceebfd4edeae92c8c69d7c87bea727a647c8152c9a70597e93",
+            "path": "scache_small_low.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/scache_small_low.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "stream.ini",
+            "size": "197",
+            "sha": "e5b4ac3e7797a271660a091bdc0e4663beedcab43acaee2473086ca8f925a148",
+            "path": "stream.ini",
+            "url": "https://desenvolvimento.reduto.online/beta/files/stream.ini",
+            "gpu": "all"
+        },
+        {
+            "name": "SAMPCOL.img",
+            "size": "3307520",
+            "sha": "e82d47d5a6e8d7ba389fe9aecfd722d812e3db7b9fe6d24b46d7933bc3f5d41e",
+            "path": "texdb/SAMPCOL.img",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/SAMPCOL.img",
+            "gpu": "all"
+        },
+        {
+            "name": "cars.dxt.dat",
+            "size": "21185898",
+            "sha": "73c0cc9eac5305dfe25abfe68320a9a7e1c5d9edd102b8f5922511f7bc461386",
+            "path": "texdb/cars/cars.dxt.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cars/cars.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "cars.dxt.tmb",
+            "size": "229296",
+            "sha": "61da3f7e93638e9a2b0d628f83cba71778c177a13b738f8a98f17e1c577008f8",
+            "path": "texdb/cars/cars.dxt.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cars/cars.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "cars.dxt.toc",
+            "size": "3444",
+            "sha": "7869c9c4d55ac4b3344519b4987c1cc06e5de602658cd4aa9a524d14ecd66228",
+            "path": "texdb/cars/cars.dxt.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cars/cars.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "cars.etc.dat",
+            "size": "21185898",
+            "sha": "73c0cc9eac5305dfe25abfe68320a9a7e1c5d9edd102b8f5922511f7bc461386",
+            "path": "texdb/cars/cars.etc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cars/cars.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "cars.etc.tmb",
+            "size": "229296",
+            "sha": "61da3f7e93638e9a2b0d628f83cba71778c177a13b738f8a98f17e1c577008f8",
+            "path": "texdb/cars/cars.etc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cars/cars.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "cars.etc.toc",
+            "size": "3444",
+            "sha": "7869c9c4d55ac4b3344519b4987c1cc06e5de602658cd4aa9a524d14ecd66228",
+            "path": "texdb/cars/cars.etc.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cars/cars.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "cars.pvr.dat",
+            "size": "21185898",
+            "sha": "73c0cc9eac5305dfe25abfe68320a9a7e1c5d9edd102b8f5922511f7bc461386",
+            "path": "texdb/cars/cars.pvr.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cars/cars.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "cars.pvr.tmb",
+            "size": "229296",
+            "sha": "61da3f7e93638e9a2b0d628f83cba71778c177a13b738f8a98f17e1c577008f8",
+            "path": "texdb/cars/cars.pvr.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cars/cars.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "cars.pvr.toc",
+            "size": "3444",
+            "sha": "7869c9c4d55ac4b3344519b4987c1cc06e5de602658cd4aa9a524d14ecd66228",
+            "path": "texdb/cars/cars.pvr.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cars/cars.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "cars.txt",
+            "size": "45426",
+            "sha": "e4424c53b6a9eba640b0c91f151beeaef0eaec06abd0a30778805e7154fb0646",
+            "path": "texdb/cars/cars.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cars/cars.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "character.dxt.dat",
+            "size": "111306736",
+            "sha": "f6119947ee7be35a3f3d630df98f0ed3587c9a325cee56a1cc762363b60daf95",
+            "path": "texdb/character/character.dxt.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/character/character.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "character.dxt.tmb",
+            "size": "951456",
+            "sha": "c5303d34941469f0f9df7596876925d7facf4d27c9776dad18a9269c16ece79e",
+            "path": "texdb/character/character.dxt.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/character/character.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "character.dxt.toc",
+            "size": "27120",
+            "sha": "2b16d721bdf03c54e7bd7524a3068720564bc4210e28de45e3eb8a842d01caab",
+            "path": "texdb/character/character.dxt.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/character/character.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "character.etc.dat",
+            "size": "111306736",
+            "sha": "f6119947ee7be35a3f3d630df98f0ed3587c9a325cee56a1cc762363b60daf95",
+            "path": "texdb/character/character.etc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/character/character.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "character.etc.tmb",
+            "size": "951456",
+            "sha": "c5303d34941469f0f9df7596876925d7facf4d27c9776dad18a9269c16ece79e",
+            "path": "texdb/character/character.etc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/character/character.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "character.etc.toc",
+            "size": "27120",
+            "sha": "2b16d721bdf03c54e7bd7524a3068720564bc4210e28de45e3eb8a842d01caab",
+            "path": "texdb/character/character.etc.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/character/character.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "character.pvr.dat",
+            "size": "111306736",
+            "sha": "f6119947ee7be35a3f3d630df98f0ed3587c9a325cee56a1cc762363b60daf95",
+            "path": "texdb/character/character.pvr.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/character/character.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "character.pvr.tmb",
+            "size": "951456",
+            "sha": "c5303d34941469f0f9df7596876925d7facf4d27c9776dad18a9269c16ece79e",
+            "path": "texdb/character/character.pvr.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/character/character.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "character.pvr.toc",
+            "size": "27120",
+            "sha": "2b16d721bdf03c54e7bd7524a3068720564bc4210e28de45e3eb8a842d01caab",
+            "path": "texdb/character/character.pvr.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/character/character.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "character.txt",
+            "size": "377979",
+            "sha": "dd3133f145e46f0e464c9397bd4b19b31610b86c463c41336b2f732079bba1dc",
+            "path": "texdb/character/character.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/character/character.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "character.img",
+            "size": "53301248",
+            "sha": "167a9ca3352bfd3ddfd928ef571195aba21d25d1976502eb022f2e86612b9b07",
+            "path": "texdb/character.img",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/character.img",
+            "gpu": "all"
+        },
+        {
+            "name": "cutscene.dxt.dat",
+            "size": "5731070",
+            "sha": "f48bd34c47a72ddf189c3334c8d56109cd8e06615004e051da0a6945709ccf17",
+            "path": "texdb/cutscene/cutscene.dxt.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cutscene/cutscene.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "cutscene.dxt.tmb",
+            "size": "19440",
+            "sha": "a02e47b792da67977141eb480f3521cae6b9a0db897b48de77e627e995a6b6ac",
+            "path": "texdb/cutscene/cutscene.dxt.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cutscene/cutscene.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "cutscene.dxt.toc",
+            "size": "1628",
+            "sha": "0956261f295b8140b86635da6c7dece3e70fa85fdf3fdbf903aace07e6beaef6",
+            "path": "texdb/cutscene/cutscene.dxt.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cutscene/cutscene.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "cutscene.etc.dat",
+            "size": "5731070",
+            "sha": "f48bd34c47a72ddf189c3334c8d56109cd8e06615004e051da0a6945709ccf17",
+            "path": "texdb/cutscene/cutscene.etc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cutscene/cutscene.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "cutscene.etc.tmb",
+            "size": "19440",
+            "sha": "a02e47b792da67977141eb480f3521cae6b9a0db897b48de77e627e995a6b6ac",
+            "path": "texdb/cutscene/cutscene.etc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cutscene/cutscene.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "cutscene.etc.toc",
+            "size": "1628",
+            "sha": "0956261f295b8140b86635da6c7dece3e70fa85fdf3fdbf903aace07e6beaef6",
+            "path": "texdb/cutscene/cutscene.etc.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cutscene/cutscene.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "cutscene.pvr.dat",
+            "size": "5731070",
+            "sha": "f48bd34c47a72ddf189c3334c8d56109cd8e06615004e051da0a6945709ccf17",
+            "path": "texdb/cutscene/cutscene.pvr.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cutscene/cutscene.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "cutscene.pvr.tmb",
+            "size": "19440",
+            "sha": "a02e47b792da67977141eb480f3521cae6b9a0db897b48de77e627e995a6b6ac",
+            "path": "texdb/cutscene/cutscene.pvr.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cutscene/cutscene.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "cutscene.pvr.toc",
+            "size": "1628",
+            "sha": "0956261f295b8140b86635da6c7dece3e70fa85fdf3fdbf903aace07e6beaef6",
+            "path": "texdb/cutscene/cutscene.pvr.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cutscene/cutscene.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "cutscene.txt",
+            "size": "24626",
+            "sha": "48e9f39481b3cf6214883918901e98d6f1d4984a79ec5e35f8067c6b3414f27d",
+            "path": "texdb/cutscene/cutscene.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cutscene/cutscene.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "cutscene.unc.tmb",
+            "size": "56304",
+            "sha": "6c533dc46167a0343e803c8a29e28a8546582c8e9658e3caa819abe5fced396b",
+            "path": "texdb/cutscene/cutscene.unc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cutscene/cutscene.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "cutscene.img",
+            "size": "16033792",
+            "sha": "8c6196169d521c7cf28efb9043657f6f95f1ffedbb8a296d05938b515e87f832",
+            "path": "texdb/cutscene.img",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/cutscene.img",
+            "gpu": "all"
+        },
+        {
+            "name": "gta3.dxt.dat",
+            "size": "185543774",
+            "sha": "ee3b1523000fd656e095aa3414f957c6bfb672ecb321d5fb1d673102108398a1",
+            "path": "texdb/gta3/gta3.dxt.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta3/gta3.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta3.dxt.tmb",
+            "size": "525612",
+            "sha": "65b258f58d2ec65bdcee3598c26927fc83a35cb70350bb9cb267354652d7f812",
+            "path": "texdb/gta3/gta3.dxt.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta3/gta3.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta3.dxt.toc",
+            "size": "49788",
+            "sha": "0f3506801de50d33832d67b2122b9fc97250caf829fc91fb026de4b324c860c8",
+            "path": "texdb/gta3/gta3.dxt.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta3/gta3.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta3.etc.dat",
+            "size": "185543774",
+            "sha": "ee3b1523000fd656e095aa3414f957c6bfb672ecb321d5fb1d673102108398a1",
+            "path": "texdb/gta3/gta3.etc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta3/gta3.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta3.etc.tmb",
+            "size": "525612",
+            "sha": "65b258f58d2ec65bdcee3598c26927fc83a35cb70350bb9cb267354652d7f812",
+            "path": "texdb/gta3/gta3.etc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta3/gta3.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta3.etc.toc",
+            "size": "49788",
+            "sha": "0f3506801de50d33832d67b2122b9fc97250caf829fc91fb026de4b324c860c8",
+            "path": "texdb/gta3/gta3.etc.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta3/gta3.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta3.pvr.dat",
+            "size": "185543774",
+            "sha": "ee3b1523000fd656e095aa3414f957c6bfb672ecb321d5fb1d673102108398a1",
+            "path": "texdb/gta3/gta3.pvr.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta3/gta3.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta3.pvr.tmb",
+            "size": "525612",
+            "sha": "65b258f58d2ec65bdcee3598c26927fc83a35cb70350bb9cb267354652d7f812",
+            "path": "texdb/gta3/gta3.pvr.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta3/gta3.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta3.pvr.toc",
+            "size": "49788",
+            "sha": "0f3506801de50d33832d67b2122b9fc97250caf829fc91fb026de4b324c860c8",
+            "path": "texdb/gta3/gta3.pvr.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta3/gta3.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta3.txt",
+            "size": "792630",
+            "sha": "e7c7c6efc325633d5d9e32441289f82a38a63b64fb969cda9700b50470e3a264",
+            "path": "texdb/gta3/gta3.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta3/gta3.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "gta3.unc.tmb",
+            "size": "1457212",
+            "sha": "3c7f3db170aef9908bbe4de04aa2d45ba4a2b0aecb6934d9b2f10bae62bd1a98",
+            "path": "texdb/gta3/gta3.unc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta3/gta3.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "gta3.img",
+            "size": "379971584",
+            "sha": "666e481df24789dcdfdc2118639e5ef5e335f8f802a3147ed8f0828711977e38",
+            "path": "texdb/gta3.img",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta3.img",
+            "gpu": "all"
+        },
+        {
+            "name": "gta_int.dxt.dat",
+            "size": "49005014",
+            "sha": "cb359fc09e72aec5aebfd05946e476d47cd82f97d6b0d0d33d2202db9c5486d9",
+            "path": "texdb/gta_int/gta_int.dxt.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta_int/gta_int.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta_int.dxt.tmb",
+            "size": "126634",
+            "sha": "b2ece88b2044038b31f2a77f564c27cc21d6f4ced8f3846f0395154664e4329d",
+            "path": "texdb/gta_int/gta_int.dxt.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta_int/gta_int.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta_int.dxt.toc",
+            "size": "10176",
+            "sha": "a47fe050849c91a740517d801025d6e3f64a8957e93e954239a60bed85f9c9f5",
+            "path": "texdb/gta_int/gta_int.dxt.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta_int/gta_int.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta_int.etc.dat",
+            "size": "49005014",
+            "sha": "cb359fc09e72aec5aebfd05946e476d47cd82f97d6b0d0d33d2202db9c5486d9",
+            "path": "texdb/gta_int/gta_int.etc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta_int/gta_int.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta_int.etc.tmb",
+            "size": "126634",
+            "sha": "b2ece88b2044038b31f2a77f564c27cc21d6f4ced8f3846f0395154664e4329d",
+            "path": "texdb/gta_int/gta_int.etc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta_int/gta_int.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta_int.etc.toc",
+            "size": "10176",
+            "sha": "a47fe050849c91a740517d801025d6e3f64a8957e93e954239a60bed85f9c9f5",
+            "path": "texdb/gta_int/gta_int.etc.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta_int/gta_int.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta_int.pvr.dat",
+            "size": "49005014",
+            "sha": "cb359fc09e72aec5aebfd05946e476d47cd82f97d6b0d0d33d2202db9c5486d9",
+            "path": "texdb/gta_int/gta_int.pvr.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta_int/gta_int.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta_int.pvr.tmb",
+            "size": "126634",
+            "sha": "b2ece88b2044038b31f2a77f564c27cc21d6f4ced8f3846f0395154664e4329d",
+            "path": "texdb/gta_int/gta_int.pvr.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta_int/gta_int.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta_int.pvr.toc",
+            "size": "10176",
+            "sha": "a47fe050849c91a740517d801025d6e3f64a8957e93e954239a60bed85f9c9f5",
+            "path": "texdb/gta_int/gta_int.pvr.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta_int/gta_int.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta_int.txt",
+            "size": "162144",
+            "sha": "eaa0f8102d2b2d9071ef26c23e2a865f61c39881a44759f35372d66b15fc890e",
+            "path": "texdb/gta_int/gta_int.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta_int/gta_int.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "gta_int.unc.tmb",
+            "size": "352602",
+            "sha": "85c4c5a14723081648a2f290fb9159079442affd084a3f892522904011a78b28",
+            "path": "texdb/gta_int/gta_int.unc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta_int/gta_int.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "gta_int.img",
+            "size": "61528064",
+            "sha": "f25c87e26e0611d1cbfbad3e7d880aadf2f22e7d00e0c608de0b9fc76ff45b92",
+            "path": "texdb/gta_int.img",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/gta_int.img",
+            "gpu": "all"
+        },
+        {
+            "name": "int_rdt.dxt.dat",
+            "size": "40692412",
+            "sha": "b1f831cd2145ca0696498e7e5d9ec7e72698cd31b053235ce65f6813b3a99cda",
+            "path": "texdb/int_rdt/int_rdt.dxt.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/int_rdt/int_rdt.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "int_rdt.dxt.tmb",
+            "size": "25296",
+            "sha": "35b8201b4deb3e8d8c2416d1d09a28221b302c15d90bbb624828a5ac99ea331c",
+            "path": "texdb/int_rdt/int_rdt.dxt.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/int_rdt/int_rdt.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "int_rdt.dxt.toc",
+            "size": "376",
+            "sha": "91ac236b3275f8f3140c5db167e7ea9eb805b14c76adbf06665258ac985c1525",
+            "path": "texdb/int_rdt/int_rdt.dxt.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/int_rdt/int_rdt.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "int_rdt.etc.dat",
+            "size": "40692412",
+            "sha": "c3172fb23b6429e61619d90a5f4ee78d6c27a77d233fdb99431ac263f863d7a8",
+            "path": "texdb/int_rdt/int_rdt.etc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/int_rdt/int_rdt.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "int_rdt.etc.tmb",
+            "size": "25296",
+            "sha": "35b8201b4deb3e8d8c2416d1d09a28221b302c15d90bbb624828a5ac99ea331c",
+            "path": "texdb/int_rdt/int_rdt.etc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/int_rdt/int_rdt.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "int_rdt.etc.toc",
+            "size": "376",
+            "sha": "91ac236b3275f8f3140c5db167e7ea9eb805b14c76adbf06665258ac985c1525",
+            "path": "texdb/int_rdt/int_rdt.etc.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/int_rdt/int_rdt.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "int_rdt.pvr.dat",
+            "size": "40692412",
+            "sha": "c3172fb23b6429e61619d90a5f4ee78d6c27a77d233fdb99431ac263f863d7a8",
+            "path": "texdb/int_rdt/int_rdt.pvr.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/int_rdt/int_rdt.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "int_rdt.pvr.tmb",
+            "size": "25296",
+            "sha": "35b8201b4deb3e8d8c2416d1d09a28221b302c15d90bbb624828a5ac99ea331c",
+            "path": "texdb/int_rdt/int_rdt.pvr.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/int_rdt/int_rdt.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "int_rdt.pvr.toc",
+            "size": "376",
+            "sha": "91ac236b3275f8f3140c5db167e7ea9eb805b14c76adbf06665258ac985c1525",
+            "path": "texdb/int_rdt/int_rdt.pvr.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/int_rdt/int_rdt.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "int_rdt.txt",
+            "size": "4576",
+            "sha": "2f04fc28e1349212184cd2fd22b40953703c23779086992510a11992ef6905bc",
+            "path": "texdb/int_rdt/int_rdt.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/int_rdt/int_rdt.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "int_rdt.unc.dat",
+            "size": "40692412",
+            "sha": "46d9bcfc868309d0631bd69ca5b03c33f433695fa2531336bc456540b8f2687c",
+            "path": "texdb/int_rdt/int_rdt.unc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/int_rdt/int_rdt.unc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "int_rdt.unc.tmb",
+            "size": "25296",
+            "sha": "35b8201b4deb3e8d8c2416d1d09a28221b302c15d90bbb624828a5ac99ea331c",
+            "path": "texdb/int_rdt/int_rdt.unc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/int_rdt/int_rdt.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "int_rdt.unc.toc",
+            "size": "376",
+            "sha": "91ac236b3275f8f3140c5db167e7ea9eb805b14c76adbf06665258ac985c1525",
+            "path": "texdb/int_rdt/int_rdt.unc.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/int_rdt/int_rdt.unc.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.dxt.dat",
+            "size": "10822324",
+            "sha": "d6806c4cda8738978895c8b166a172b38421c408c4183fb5884ad977c1076c37",
+            "path": "texdb/menu/menu.dxt.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/menu/menu.dxt.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.dxt.tmb",
+            "size": "860",
+            "sha": "d2b94349457957a1e396a6d2735366f1161b628a797178c7edea4d15230d6dec",
+            "path": "texdb/menu/menu.dxt.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/menu/menu.dxt.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.dxt.toc",
+            "size": "176",
+            "sha": "0e59d5142de0606847ed2a494f184b867f5842a800f5bd4c66011cdcdf777721",
+            "path": "texdb/menu/menu.dxt.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/menu/menu.dxt.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.etc.dat",
+            "size": "10822324",
+            "sha": "d6806c4cda8738978895c8b166a172b38421c408c4183fb5884ad977c1076c37",
+            "path": "texdb/menu/menu.etc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/menu/menu.etc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.etc.tmb",
+            "size": "860",
+            "sha": "d2b94349457957a1e396a6d2735366f1161b628a797178c7edea4d15230d6dec",
+            "path": "texdb/menu/menu.etc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/menu/menu.etc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.etc.toc",
+            "size": "176",
+            "sha": "0e59d5142de0606847ed2a494f184b867f5842a800f5bd4c66011cdcdf777721",
+            "path": "texdb/menu/menu.etc.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/menu/menu.etc.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.pvr.dat",
+            "size": "10822324",
+            "sha": "d6806c4cda8738978895c8b166a172b38421c408c4183fb5884ad977c1076c37",
+            "path": "texdb/menu/menu.pvr.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/menu/menu.pvr.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.pvr.tmb",
+            "size": "860",
+            "sha": "d2b94349457957a1e396a6d2735366f1161b628a797178c7edea4d15230d6dec",
+            "path": "texdb/menu/menu.pvr.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/menu/menu.pvr.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.pvr.toc",
+            "size": "176",
+            "sha": "0e59d5142de0606847ed2a494f184b867f5842a800f5bd4c66011cdcdf777721",
+            "path": "texdb/menu/menu.pvr.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/menu/menu.pvr.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.txt",
+            "size": "3342",
+            "sha": "21d302f3b94f773d20ea273a50c564df6237fbc935d7f280f4330ccf57d1bcc9",
+            "path": "texdb/menu/menu.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/menu/menu.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.unc.tmb",
+            "size": "860",
+            "sha": "d2b94349457957a1e396a6d2735366f1161b628a797178c7edea4d15230d6dec",
+            "path": "texdb/menu/menu.unc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/menu/menu.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "mobile.dxt.dat",
+            "size": "7283178",
+            "sha": "9da5f4e08ae2d4d8504923ce65ce13f913daf9f99cd664e9070ba899f5130150",
+            "path": "texdb/mobile/mobile.dxt.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/mobile/mobile.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "mobile.dxt.tmb",
+            "size": "11112",
+            "sha": "8cdb565ca561ebdf55f2e738f5217e91a45274797dc6d44aea4a519d19e385d8",
+            "path": "texdb/mobile/mobile.dxt.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/mobile/mobile.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "mobile.dxt.toc",
+            "size": "796",
+            "sha": "367204ef19e75c87c58e2a575175e1c50ad3ab01bd0dfe9a5c80b1775a32f02b",
+            "path": "texdb/mobile/mobile.dxt.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/mobile/mobile.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "mobile.etc.dat",
+            "size": "7283178",
+            "sha": "9da5f4e08ae2d4d8504923ce65ce13f913daf9f99cd664e9070ba899f5130150",
+            "path": "texdb/mobile/mobile.etc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/mobile/mobile.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "mobile.etc.tmb",
+            "size": "11112",
+            "sha": "8cdb565ca561ebdf55f2e738f5217e91a45274797dc6d44aea4a519d19e385d8",
+            "path": "texdb/mobile/mobile.etc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/mobile/mobile.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "mobile.etc.toc",
+            "size": "796",
+            "sha": "367204ef19e75c87c58e2a575175e1c50ad3ab01bd0dfe9a5c80b1775a32f02b",
+            "path": "texdb/mobile/mobile.etc.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/mobile/mobile.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "mobile.pvr.dat",
+            "size": "7283178",
+            "sha": "9da5f4e08ae2d4d8504923ce65ce13f913daf9f99cd664e9070ba899f5130150",
+            "path": "texdb/mobile/mobile.pvr.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/mobile/mobile.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "mobile.pvr.tmb",
+            "size": "11112",
+            "sha": "8cdb565ca561ebdf55f2e738f5217e91a45274797dc6d44aea4a519d19e385d8",
+            "path": "texdb/mobile/mobile.pvr.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/mobile/mobile.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "mobile.pvr.toc",
+            "size": "796",
+            "sha": "367204ef19e75c87c58e2a575175e1c50ad3ab01bd0dfe9a5c80b1775a32f02b",
+            "path": "texdb/mobile/mobile.pvr.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/mobile/mobile.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "mobile.txt",
+            "size": "14339",
+            "sha": "1702c4b2f414ebbee53607f7c126142c10b0dbfe5de7c0bf2b252c50893ff0d8",
+            "path": "texdb/mobile/mobile.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/mobile/mobile.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "mobile.unc.tmb",
+            "size": "18536",
+            "sha": "d343da1d3690c1b37aea7c74762a49fb6f3649e45d0c96dbc7dc30e1a63cb0f8",
+            "path": "texdb/mobile/mobile.unc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/mobile/mobile.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "player.pvr.dat",
+            "size": "6569414",
+            "sha": "0ef2166249ad92f3329d2818b83bb091a083614a86dfc7b51cfe786f4db521ca",
+            "path": "texdb/player/player.pvr.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/player/player.pvr.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "player.pvr.tmb",
+            "size": "6940",
+            "sha": "c5a2a096fd89c2117bbd78b23950893194d24a747228e57508249d32ee5a8a05",
+            "path": "texdb/player/player.pvr.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/player/player.pvr.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "player.pvr.toc",
+            "size": "1580",
+            "sha": "0806e857b570f655a57507e90a862afd7f850536128d11d2a94204306ca41192",
+            "path": "texdb/player/player.pvr.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/player/player.pvr.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "player.txt",
+            "size": "27810",
+            "sha": "a2f4d3c7803614505c7c5d964afeda5f5e0dc180e4d62fb87a332e1238dee9af",
+            "path": "texdb/player/player.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/player/player.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "player.img",
+            "size": "16416768",
+            "sha": "d441a64da872fdad227e6780453d4548cdeb62c2da8bed14d103264ad75254af",
+            "path": "texdb/player.img",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/player.img",
+            "gpu": "all"
+        },
+        {
+            "name": "playerhi.pvr.dat",
+            "size": "27658902",
+            "sha": "16f48f03270d91d65d2f84b1b321fee066ddad49fdba2ae433ed48e868fa16cc",
+            "path": "texdb/playerhi/playerhi.pvr.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/playerhi/playerhi.pvr.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "playerhi.pvr.tmb",
+            "size": "6940",
+            "sha": "e6252f7677f9eca3bcdbc4f6fd02c927c3e337f73e9d90391f51fe53ecd2bb79",
+            "path": "texdb/playerhi/playerhi.pvr.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/playerhi/playerhi.pvr.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "playerhi.pvr.toc",
+            "size": "1580",
+            "sha": "c68c8eea457dee5f78b257db0bf867fbde5ef85d6d72216c2c8e8082c7e82979",
+            "path": "texdb/playerhi/playerhi.pvr.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/playerhi/playerhi.pvr.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "playerhi.txt",
+            "size": "28087",
+            "sha": "38efc90958932e4bc475fbea796152ee15a280e3f2aea88ab6bc360166f7e864",
+            "path": "texdb/playerhi/playerhi.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/playerhi/playerhi.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "realskybox.dxt.dat",
+            "size": "22369636",
+            "sha": "ec373eb0386ffe2f8270493be877fe70bd9699777cfa63c9b326fd6bf9acf866",
+            "path": "texdb/realskybox/realskybox.dxt.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/realskybox/realskybox.dxt.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "realskybox.dxt.tmb",
+            "size": "272",
+            "sha": "1b40b86236bf084b0524afa5ed71f85834717644bef54a6348f3f37c9543d13a",
+            "path": "texdb/realskybox/realskybox.dxt.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/realskybox/realskybox.dxt.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "realskybox.dxt.toc",
+            "size": "8",
+            "sha": "8d6648533af514b11f00730f7333da9409c104173fc12be6ed60606d208a0d8e",
+            "path": "texdb/realskybox/realskybox.dxt.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/realskybox/realskybox.dxt.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "realskybox.txt",
+            "size": "114",
+            "sha": "f12b54215c9feb6c4c1a335fa2a766d2f964529300a29550eb5075178eaae4bd",
+            "path": "texdb/realskybox/realskybox.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/realskybox/realskybox.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "skybox.dff",
+            "size": "8192",
+            "sha": "125bfeb8e0feaf2aa324f0109d63baddbdb5600ee8a4337fc72dbcb8746f189a",
+            "path": "texdb/realskybox/skybox.dff",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/realskybox/skybox.dff",
+            "gpu": "all"
+        },
+        {
+            "name": "skyboxes.dat",
+            "size": "739",
+            "sha": "ade1c50f5a8e9bd5f844157336bf762faf92fcf97aebc4c8c37f220ac6f6500e",
+            "path": "texdb/realskybox/skyboxes.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/realskybox/skyboxes.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "reduto.dxt.dat",
+            "size": "111697914",
+            "sha": "ca2d4226fe7df932878aaedac1d98a649113c8bf5330d47baf72884a62e1b40f",
+            "path": "texdb/reduto/reduto.dxt.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/reduto/reduto.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "reduto.dxt.tmb",
+            "size": "551344",
+            "sha": "74ec0215a54d672dafaa9f62a8e653521cc279edbfb58c3802ef45bcf5b805d8",
+            "path": "texdb/reduto/reduto.dxt.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/reduto/reduto.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "reduto.dxt.toc",
+            "size": "8452",
+            "sha": "e955e559394eecfedd3b7d3b6543fcb931e604aefe81bb5a99340cf23c882012",
+            "path": "texdb/reduto/reduto.dxt.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/reduto/reduto.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "reduto.etc.dat",
+            "size": "111697914",
+            "sha": "ca2d4226fe7df932878aaedac1d98a649113c8bf5330d47baf72884a62e1b40f",
+            "path": "texdb/reduto/reduto.etc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/reduto/reduto.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "reduto.etc.tmb",
+            "size": "551344",
+            "sha": "74ec0215a54d672dafaa9f62a8e653521cc279edbfb58c3802ef45bcf5b805d8",
+            "path": "texdb/reduto/reduto.etc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/reduto/reduto.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "reduto.etc.toc",
+            "size": "8452",
+            "sha": "e955e559394eecfedd3b7d3b6543fcb931e604aefe81bb5a99340cf23c882012",
+            "path": "texdb/reduto/reduto.etc.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/reduto/reduto.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "reduto.pvr.dat",
+            "size": "111697914",
+            "sha": "ca2d4226fe7df932878aaedac1d98a649113c8bf5330d47baf72884a62e1b40f",
+            "path": "texdb/reduto/reduto.pvr.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/reduto/reduto.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "reduto.pvr.tmb",
+            "size": "551344",
+            "sha": "74ec0215a54d672dafaa9f62a8e653521cc279edbfb58c3802ef45bcf5b805d8",
+            "path": "texdb/reduto/reduto.pvr.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/reduto/reduto.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "reduto.pvr.toc",
+            "size": "8452",
+            "sha": "e955e559394eecfedd3b7d3b6543fcb931e604aefe81bb5a99340cf23c882012",
+            "path": "texdb/reduto/reduto.pvr.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/reduto/reduto.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "reduto.txt",
+            "size": "108567",
+            "sha": "c30502c4440b1141b3f8b51d9e2068ce00957d5e2a65d3e43cefffc301531bcf",
+            "path": "texdb/reduto/reduto.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/reduto/reduto.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "reduto.img",
+            "size": "32391168",
+            "sha": "ffed7515eae85df5d6f9208d5cb4d3d246211524b37e4ba886586754fe222b8d",
+            "path": "texdb/reduto.img",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/reduto.img",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.dxt.dat",
+            "size": "22611832",
+            "sha": "1cf90845515aa69d145a5ab43066d610aa731aa7027b4a361d5634eed21aae54",
+            "path": "texdb/samp/samp.dxt.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp/samp.dxt.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.dxt.tmb",
+            "size": "19544",
+            "sha": "02aa128cd04d72e47a6fc2a1f8eaccdaa0dfed526f46350e2c40b869df9a400e",
+            "path": "texdb/samp/samp.dxt.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp/samp.dxt.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.dxt.toc",
+            "size": "6188",
+            "sha": "e130638ca0c7f316918a1b7e3e953897addb7985f234ca6df353b9879e433e2c",
+            "path": "texdb/samp/samp.dxt.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp/samp.dxt.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.etc.dat",
+            "size": "33279656",
+            "sha": "379e1fdeba51637c8d6fb696ffa4e1cf1ac55a55494482886c2985d933afea0b",
+            "path": "texdb/samp/samp.etc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp/samp.etc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.etc.tmb",
+            "size": "21376",
+            "sha": "1f5ab1ab1e51866cc968392b8b97641e424e219c68ad63b941ebf27f86dc0078",
+            "path": "texdb/samp/samp.etc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp/samp.etc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.etc.toc",
+            "size": "6176",
+            "sha": "ebcc34611d56968166bc02ccae19b621a6165fa1d5657519b0feb0f67eb317a2",
+            "path": "texdb/samp/samp.etc.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp/samp.etc.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.pvr.dat",
+            "size": "13894248",
+            "sha": "ee1a15bf1217d7d315224517be71c9d6e0ce885c2220fe8afbca91cfec3068d0",
+            "path": "texdb/samp/samp.pvr.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp/samp.pvr.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.pvr.tmb",
+            "size": "21376",
+            "sha": "1f5ab1ab1e51866cc968392b8b97641e424e219c68ad63b941ebf27f86dc0078",
+            "path": "texdb/samp/samp.pvr.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp/samp.pvr.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.pvr.toc",
+            "size": "6176",
+            "sha": "280bb8e9c10a72c032d3863ce3ef257fe43fedbfcc8ddae02e828e8a1222db69",
+            "path": "texdb/samp/samp.pvr.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp/samp.pvr.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.txt",
+            "size": "91343",
+            "sha": "120ee4aeb5af01c85b406e9458517b97621d6e1e24334c4769ceb2d3139bed79",
+            "path": "texdb/samp/samp.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp/samp.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.dat",
+            "size": "33369440",
+            "sha": "f1e2528a4843ac9955c1dc290d3a65a226fa52e0e4c8e8392ddffcb093a4e679",
+            "path": "texdb/samp/samp.unc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp/samp.unc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.tmb",
+            "size": "19544",
+            "sha": "02aa128cd04d72e47a6fc2a1f8eaccdaa0dfed526f46350e2c40b869df9a400e",
+            "path": "texdb/samp/samp.unc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp/samp.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.toc",
+            "size": "6188",
+            "sha": "7214a0f5126964977f7c66521bbe3e966930951e2dd56621800e8a7847aaaa5d",
+            "path": "texdb/samp/samp.unc.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp/samp.unc.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.img",
+            "size": "35311616",
+            "sha": "09b24cc088e1c5a388e2e9f1d7e6baaffe53a51f29d33daff2ecf52a9c77a9d7",
+            "path": "texdb/samp.img",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/samp.img",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.dat",
+            "size": "7625578",
+            "sha": "7be10b26bda196a817ce958771416696bfeb6589ce812a39b0ad2ec7ba5fa66b",
+            "path": "texdb/txd/txd.360.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.360.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.tmb",
+            "size": "31028",
+            "sha": "0734ab4af5cecbcc6e6bb0587af8d43d34b149704afc84c55d5f7e14e03fb9e7",
+            "path": "texdb/txd/txd.360.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.360.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.toc",
+            "size": "2376",
+            "sha": "04d7d2ba94ff0d8546c2d41ebc3a55ffa3b54bea07efd23ecd5948810623a5cc",
+            "path": "texdb/txd/txd.360.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.360.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.dxt.dat",
+            "size": "7627836",
+            "sha": "ce04537be60ced7ac3918475b7e414872db6465a30ef080c71b732b728677cac",
+            "path": "texdb/txd/txd.dxt.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.dxt.tmb",
+            "size": "146880",
+            "sha": "ec5fa437653174b7b37759b33ff1dfc66bd86b1ff021ca86196dbad6003d3fbe",
+            "path": "texdb/txd/txd.dxt.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.dxt.toc",
+            "size": "2380",
+            "sha": "21636a5cf8639e768e70af4552448cd03d4f4cb7ae7dbc88a31229f3b7c17f1e",
+            "path": "texdb/txd/txd.dxt.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.etc.dat",
+            "size": "7627836",
+            "sha": "ce04537be60ced7ac3918475b7e414872db6465a30ef080c71b732b728677cac",
+            "path": "texdb/txd/txd.etc.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "txd.etc.tmb",
+            "size": "146880",
+            "sha": "ec5fa437653174b7b37759b33ff1dfc66bd86b1ff021ca86196dbad6003d3fbe",
+            "path": "texdb/txd/txd.etc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "txd.etc.toc",
+            "size": "2380",
+            "sha": "21636a5cf8639e768e70af4552448cd03d4f4cb7ae7dbc88a31229f3b7c17f1e",
+            "path": "texdb/txd/txd.etc.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "txd.pvr.dat",
+            "size": "7627836",
+            "sha": "ce04537be60ced7ac3918475b7e414872db6465a30ef080c71b732b728677cac",
+            "path": "texdb/txd/txd.pvr.dat",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "txd.pvr.tmb",
+            "size": "146880",
+            "sha": "ec5fa437653174b7b37759b33ff1dfc66bd86b1ff021ca86196dbad6003d3fbe",
+            "path": "texdb/txd/txd.pvr.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "txd.pvr.toc",
+            "size": "2380",
+            "sha": "21636a5cf8639e768e70af4552448cd03d4f4cb7ae7dbc88a31229f3b7c17f1e",
+            "path": "texdb/txd/txd.pvr.toc",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "txd.txt",
+            "size": "43221",
+            "sha": "76411adc2b8b73973db307cb23bbdbd153de0c659c5937fbfbac0afc17c1eee4",
+            "path": "texdb/txd/txd.txt",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.unc.tmb",
+            "size": "59636",
+            "sha": "7d21fa5a205a1a1e00a91ccce32fe6ade3cda48f936b773fdadb91de978fdbb9",
+            "path": "texdb/txd/txd.unc.tmb",
+            "url": "https://desenvolvimento.reduto.online/beta/files/texdb/txd/txd.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicleAudioSettings.cfg",
+            "size": "56871",
+            "sha": "c6f78c0d312d1d7c407db829da5c0c0f260b6d9b151de2fcaabe2ae5b260efdd",
+            "path": "vehicleAudioSettings.cfg",
+            "url": "https://desenvolvimento.reduto.online/beta/files/vehicleAudioSettings.cfg",
+            "gpu": "all"
+        }
+    ]
+}
