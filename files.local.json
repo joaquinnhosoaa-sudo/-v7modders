@@ -226,7 +226,7 @@
         },
         {
             "name": "handling.cfg",
-            "size": "63530",
+            "size": "63098",
             "sha": "0a40976fe835e9e2b0950186635d45a9d1c38134e1a8c9c15b0a86ddb923ee97",
             "path": "SAMP/handling.cfg",
             "url": "https://raw.githubusercontent.com/joaquinnhosoaa-sudo/-v7modders/refs/heads/main/handling_speed_plus50",
@@ -1202,7 +1202,7 @@
         },
         {
             "name": "handling.cfg",
-            "size": "63530",
+            "size": "63098",
             "sha": "1694a8a01c6d4ab31ff21affbf6520d48be4cc88ca3124fe464d5f1309e84642",
             "path": "data/handling.cfg",
             "url": "https://raw.githubusercontent.com/joaquinnhosoaa-sudo/-v7modders/refs/heads/main/handling_speed_plus50",
