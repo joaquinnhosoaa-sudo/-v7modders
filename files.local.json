@@ -290,10 +290,10 @@
         },
         {
             "name": "settings.ini",
-            "size": "358",
+            "size": "356",
             "sha": "e3807f06d0e25e5a0ae1aca895a20048fbe4ab0e281bfaab3b3f6f5a7cb18eac",
             "path": "SAMP/settings.ini",
-            "url": "https://pastebin.com/dl/QHatkNnK",
+            "url": "https://raw.githubusercontent.com/joaquinnhosoaa-sudo/-v7modders/refs/heads/main/settings.ini",
             "gpu": "all"
         },
         {
