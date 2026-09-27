@@ -1,0 +1,40 @@
+{
+    "client": {
+        "server": {
+            "host": "",
+            "password": "",
+            "port": 7777
+        },
+        "settings": {
+            "aim_auto": true,
+            "android_keyboard": true,
+            "chat_font_size": 360.0,
+            "chat_max_messages": 10,
+            "chat_posx": 100,
+            "chat_posy": 10,
+            "chat_size": 360.0,
+            "chat_sizex": 400,
+            "chat_sizey": 150,
+            "chat_strings": 10,
+            "chatkill": true,
+            "chatkill_x": 50,
+            "chatkill_y": 120,
+            "cleo_aml": true,
+            "cutout": true,
+            "display_fps": true,
+            "enb": true,
+            "fast_connect": true,
+            "font_outline": 1,
+            "font_size": 10.0,
+            "fps_limit": 10,
+            "hud": true,
+            "mod": true,
+            "modify_files": true,
+            "new_interface": true,
+            "new_keyboard": true,
+            "nick_name": "seu_nickv7",
+            "timestamp": true,
+            "voice_chat": true
+        }
+    }
+}
