@@ -298,10 +298,10 @@
         },
         {
             "name": "settings.json",
-            "size": "774",
+            "size": "1078",
             "sha": "2e57b81ef9776b994a329ece1e53444ba67664ee3f41c4da9f72e2d5a4e193a6",
             "path": "SAMP/settings.json",
-            "url": "https://pastebin.com/raw/FnFUFtqm",
+            "url": "https://raw.githubusercontent.com/joaquinnhosoaa-sudo/-v7modders/refs/heads/main/settings.json",
             "gpu": "all"
         },
         {
